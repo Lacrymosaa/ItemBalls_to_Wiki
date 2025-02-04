@@ -1,0 +1,831 @@
+Created at 2024-03-09 17:24:12
+-------------------------------
+Map ID: 078. Ruta 1
+001. ID: 023 (047,034) item: POKEBALL,5  event: EV023
+-------------------------------
+Map ID: 080. Ruta 2
+001. ID: 004 (027,038) item: GOLD  event: EV004
+002. ID: 013 (021,035) item: GRASSGEM  event: EV013
+003. ID: 021 (032,010) item: GREATBALL  event: Darek
+-------------------------------
+Map ID: 086. Pueblo Pinzón - Cafetería
+001. ID: 001 (016,004) item: COFFEE  event: Profe
+002. ID: 003 (017,009) item: TOWNMAP  event: EV003
+003. ID: 006 (019,000) item: COFFEE  event: eda
+-------------------------------
+Map ID: 090. Ruta 4
+001. ID: 003 (037,030) item: GOLD  event: EV003
+002. ID: 010 (005,029) item: FRESHWATER  event: EV010
+-------------------------------
+Map ID: 092. Ciudad Calentra
+001. ID: 067 (036,053) item: SOFTSAND  event: EV067
+-------------------------------
+Map ID: 094. Ciudad Calentra - Gym
+001. ID: 009 (011,014) item: FRESHWATER  event: encargado
+-------------------------------
+Map ID: 097. Ciudad Calentra - Gym
+001. ID: 016 (013,019) item: TM63  event: EV016
+002. ID: 018 (014,019) item: TM63  event: EV018
+003. ID: 019 (012,019) item: TM63  event: EV019
+-------------------------------
+Map ID: 099. Gate 4
+001. ID: 016 (015,025) item: LAVACOOKIE  event: EV016
+-------------------------------
+Map ID: 101. Bosque Verderón
+001. ID: 070 (004,069) item: HACHA  event: EV070
+002. ID: 120 (065,053) item: SILVERPOWDER  event: EV120
+003. ID: 141 (005,069) item: HACHA  event: EV141
+-------------------------------
+Map ID: 102. Bosque Verderón
+001. ID: 001 (024,014) item: PIEZADELENA,2  event: EV001
+002. ID: 001 (024,014) item: PIEZADELENA,3  event: EV001
+003. ID: 001 (024,014) item: PIEZADELENA  event: EV001
+004. ID: 120 (065,053) item: SILVERPOWDER  event: EV120
+005. ID: 131 (004,069) item: HACHA  event: EV131
+006. ID: 132 (005,069) item: HACHA  event: EV132
+007. ID: 133 (026,064) item: PIEZADELENA,2  event: EV133
+008. ID: 133 (026,064) item: PIEZADELENA  event: EV133
+009. ID: 133 (026,064) item: PIEZADELENA,3  event: EV133
+010. ID: 134 (038,074) item: PIEZADELENA,3  event: EV134
+011. ID: 134 (038,074) item: PIEZADELENA,2  event: EV134
+012. ID: 134 (038,074) item: PIEZADELENA  event: EV134
+013. ID: 135 (053,084) item: PIEZADELENA,3  event: EV135
+014. ID: 135 (053,084) item: PIEZADELENA,2  event: EV135
+015. ID: 135 (053,084) item: PIEZADELENA  event: EV135
+016. ID: 136 (009,079) item: PIEZADELENA,2  event: EV136
+017. ID: 136 (009,079) item: PIEZADELENA,3  event: EV136
+018. ID: 136 (009,079) item: PIEZADELENA  event: EV136
+019. ID: 137 (004,040) item: PIEZADELENA  event: EV137
+020. ID: 137 (004,040) item: PIEZADELENA,3  event: EV137
+021. ID: 137 (004,040) item: PIEZADELENA,2  event: EV137
+022. ID: 138 (057,040) item: PIEZADELENA,3  event: EV138
+023. ID: 138 (057,040) item: PIEZADELENA,2  event: EV138
+024. ID: 138 (057,040) item: PIEZADELENA  event: EV138
+025. ID: 139 (085,067) item: PIEZADELENA,2  event: EV139
+026. ID: 139 (085,067) item: PIEZADELENA,3  event: EV139
+027. ID: 139 (085,067) item: PIEZADELENA  event: EV139
+-------------------------------
+Map ID: 104. Ciudad Verderón - Gym
+001. ID: 026 (012,036) item: FRESHWATER  event: EV026
+-------------------------------
+Map ID: 106. Ciudad Verderón - Gym
+001. ID: 006 (009,010) item: HM01  event: EV006
+002. ID: 007 (010,010) item: HM01  event: EV007
+-------------------------------
+Map ID: 107. Ciudad Verderón
+001. ID: 015 (019,021) item: FULLHEAL  event: EV015
+-------------------------------
+Map ID: 111. Ruta 6
+001. ID: 037 (011,015) item: PIEZADELENA  event: EV037
+002. ID: 037 (011,015) item: PIEZADELENA,2  event: EV037
+003. ID: 037 (011,015) item: PIEZADELENA,3  event: EV037
+004. ID: 038 (031,010) item: PIEZADELENA,3  event: EV038
+005. ID: 038 (031,010) item: PIEZADELENA,2  event: EV038
+006. ID: 038 (031,010) item: PIEZADELENA  event: EV038
+007. ID: 039 (026,025) item: PIEZADELENA  event: EV039
+008. ID: 039 (026,025) item: PIEZADELENA,2  event: EV039
+009. ID: 039 (026,025) item: PIEZADELENA,3  event: EV039
+010. ID: 040 (014,021) item: PIEZADELENA,3  event: EV040
+011. ID: 040 (014,021) item: PIEZADELENA  event: EV040
+012. ID: 040 (014,021) item: PIEZADELENA,2  event: EV040
+-------------------------------
+Map ID: 112. Rute 6 (Norte)
+001. ID: 028 (004,010) item: POWERANKLET  event: padre
+002. ID: 030 (024,021) item: PIEZADELENA,2  event: EV030
+003. ID: 030 (024,021) item: PIEZADELENA,3  event: EV030
+004. ID: 030 (024,021) item: PIEZADELENA  event: EV030
+005. ID: 031 (016,027) item: PIEZADELENA  event: EV031
+006. ID: 031 (016,027) item: PIEZADELENA,2  event: EV031
+007. ID: 031 (016,027) item: PIEZADELENA,3  event: EV031
+008. ID: 042 (029,013) item: PIEZADELENA,2  event: EV042
+009. ID: 042 (029,013) item: PIEZADELENA,3  event: EV042
+010. ID: 042 (029,013) item: PIEZADELENA  event: EV042
+-------------------------------
+Map ID: 114. Ruta 6 (Sur)
+001. ID: 027 (003,007) item: PIEZADELENA,2  event: EV027
+002. ID: 027 (003,007) item: PIEZADELENA,3  event: EV027
+003. ID: 027 (003,007) item: PIEZADELENA  event: EV027
+004. ID: 028 (028,014) item: PIEZADELENA,2  event: EV028
+005. ID: 028 (028,014) item: PIEZADELENA,3  event: EV028
+006. ID: 028 (028,014) item: PIEZADELENA  event: EV028
+007. ID: 029 (019,003) item: PIEZADELENA  event: EV029
+008. ID: 029 (019,003) item: PIEZADELENA,2  event: EV029
+009. ID: 029 (019,003) item: PIEZADELENA,3  event: EV029
+010. ID: 030 (022,036) item: PIEZADELENA,2  event: EV030
+011. ID: 030 (022,036) item: PIEZADELENA,3  event: EV030
+012. ID: 030 (022,036) item: PIEZADELENA  event: EV030
+013. ID: 031 (001,007) item: GOLD  event: EV031
+-------------------------------
+Map ID: 122. Montaña de la sabiduría
+001. ID: 017 (012,015) item: TM101  event: evento3
+-------------------------------
+Map ID: 123. Ruta 6 (Sur)
+001. ID: 022 (023,018) item: PIEZADELENA,2  event: EV022
+002. ID: 022 (023,018) item: PIEZADELENA,3  event: EV022
+003. ID: 022 (023,018) item: PIEZADELENA  event: EV022
+-------------------------------
+Map ID: 125. Ruta 7
+001. ID: 018 (020,066) item: BLACKBELT  event: Trainer
+002. ID: 021 (017,017) item: DOWSINGMACHINE  event: chica
+003. ID: 040 (014,039) item: PIEZADELENA  event: EV040
+004. ID: 040 (014,039) item: PIEZADELENA,2  event: EV040
+005. ID: 040 (014,039) item: PIEZADELENA,3  event: EV040
+006. ID: 041 (030,054) item: PIEZADELENA,2  event: EV041
+007. ID: 041 (030,054) item: PIEZADELENA,3  event: EV041
+008. ID: 041 (030,054) item: PIEZADELENA  event: EV041
+009. ID: 042 (022,066) item: PIEZADELENA,2  event: EV042
+010. ID: 042 (022,066) item: PIEZADELENA  event: EV042
+011. ID: 042 (022,066) item: PIEZADELENA,3  event: EV042
+012. ID: 043 (016,069) item: PIEZADELENA,2  event: EV043
+013. ID: 043 (016,069) item: PIEZADELENA  event: EV043
+014. ID: 043 (016,069) item: PIEZADELENA,3  event: EV043
+015. ID: 044 (011,059) item: PIEZADELENA,3  event: EV044
+016. ID: 044 (011,059) item: PIEZADELENA,2  event: EV044
+017. ID: 044 (011,059) item: PIEZADELENA  event: EV044
+-------------------------------
+Map ID: 129. Ruta 5
+001. ID: 037 (033,031) item: MAGNET  event: EV037
+-------------------------------
+Map ID: 130. Ruta 4 
+001. ID: 005 (014,013) item: OLDROD  event: EV005
+-------------------------------
+Map ID: 131. Ruta 8
+001. ID: 027 (061,004) item: GOLD  event: EV027
+002. ID: 102 (035,025) item: PIEZADELENA,2  event: EV102
+003. ID: 102 (035,025) item: PIEZADELENA,3  event: EV102
+004. ID: 102 (035,025) item: PIEZADELENA  event: EV102
+005. ID: 103 (046,011) item: PIEZADELENA  event: EV103
+006. ID: 103 (046,011) item: PIEZADELENA,2  event: EV103
+007. ID: 103 (046,011) item: PIEZADELENA,3  event: EV103
+008. ID: 104 (062,013) item: PIEZADELENA,2  event: EV104
+009. ID: 104 (062,013) item: PIEZADELENA,3  event: EV104
+010. ID: 104 (062,013) item: PIEZADELENA  event: EV104
+-------------------------------
+Map ID: 132. Ciduad Verderón
+001. ID: 020 (005,009) item: CHERIBERRY  event: EV020
+002. ID: 029 (064,013) item: TR23  event: const
+003. ID: 029 (064,013) item: TR60  event: const
+004. ID: 029 (064,013) item: TR71  event: const
+005. ID: 029 (064,013) item: TR77  event: const
+006. ID: 029 (064,013) item: CHARCOAL  event: const
+007. ID: 029 (064,013) item: MIRACLESEED  event: const
+008. ID: 029 (064,013) item: MYSTICWATER  event: const
+009. ID: 029 (064,013) item: DIVEBALL  event: const
+010. ID: 029 (064,013) item: DUSKBALL  event: const
+011. ID: 029 (064,013) item: TIMERBALL  event: const
+012. ID: 029 (064,013) item: QUICKBALL  event: const
+013. ID: 029 (064,013) item: TR00  event: const
+014. ID: 030 (064,016) item: HACHANCESTRAL  event: EV030
+-------------------------------
+Map ID: 135. Ciudad Calentra
+001. ID: 007 (014,013) item: HEALBALL  event: EV007
+-------------------------------
+Map ID: 136. Ruta 5
+001. ID: 008 (049,032) item: EGGHATCHER  event: EV008
+-------------------------------
+Map ID: 139. Gate 9
+001. ID: 007 (013,005) item: FRESHWATER  event: EV007
+-------------------------------
+Map ID: 140. Ciudad Ninfa
+001. ID: 021 (020,038) item: GROUNDGEM  event: EV021
+002. ID: 043 (027,043) item: STARDUST  event: EV043
+003. ID: 077 (044,027) item: FRESHWATER  event: EV077
+004. ID: 079 (040,018) item: HELADODEFRESA  event: EV079
+005. ID: 080 (053,008) item: HELADODEMENTA  event: EV080
+006. ID: 083 (006,009) item: LEMONADE  event: EV083
+-------------------------------
+Map ID: 143. Ciudad Ninfa - Heladería
+001. ID: 006 (005,006) item: CASTELIACONE  event: EV006
+-------------------------------
+Map ID: 145. Ciudad Ninfa
+001. ID: 004 (000,000) item: DRAGONFANG  event: EV004
+-------------------------------
+Map ID: 146. Gate 10
+001. ID: 014 (003,005) item: FRESHWATER  event: EV014
+-------------------------------
+Map ID: 149. Ruta 9
+001. ID: 052 (018,015) item: NUGGET  event: EV052
+002. ID: 053 (056,073) item: FRESHWATER  event: EV053
+003. ID: 083 (008,039) item: HARDSTONE  event: EV083
+004. ID: 114 (010,069) item: PIEZADELENA,2  event: EV114
+005. ID: 114 (010,069) item: PIEZADELENA,3  event: EV114
+006. ID: 114 (010,069) item: PIEZADELENA  event: EV114
+007. ID: 180 (030,071) item: PIEZADELENA  event: EV180
+008. ID: 180 (030,071) item: PIEZADELENA,2  event: EV180
+009. ID: 180 (030,071) item: PIEZADELENA,3  event: EV180
+010. ID: 184 (023,054) item: PIEZADELENA,2  event: EV184
+011. ID: 184 (023,054) item: PIEZADELENA,3  event: EV184
+012. ID: 184 (023,054) item: PIEZADELENA  event: EV184
+013. ID: 185 (018,035) item: PIEZADELENA,2  event: EV185
+014. ID: 185 (018,035) item: PIEZADELENA,3  event: EV185
+015. ID: 185 (018,035) item: PIEZADELENA  event: EV185
+016. ID: 186 (046,059) item: PIEZADELENA,2  event: EV186
+017. ID: 186 (046,059) item: PIEZADELENA,3  event: EV186
+018. ID: 186 (046,059) item: PIEZADELENA  event: EV186
+019. ID: 187 (007,009) item: PIEZADELENA,3  event: EV187
+020. ID: 187 (007,009) item: PIEZADELENA,2  event: EV187
+021. ID: 187 (007,009) item: PIEZADELENA  event: EV187
+022. ID: 188 (040,006) item: PIEZADELENA  event: EV188
+023. ID: 188 (040,006) item: PIEZADELENA,3  event: EV188
+024. ID: 188 (040,006) item: PIEZADELENA,2  event: EV188
+025. ID: 189 (020,011) item: PIEZADELENA  event: EV189
+026. ID: 189 (020,011) item: PIEZADELENA,2  event: EV189
+027. ID: 189 (020,011) item: PIEZADELENA,3  event: EV189
+028. ID: 221 (005,004) item: GOLD  event: EV221
+-------------------------------
+Map ID: 150. Ruta 10
+001. ID: 056 (023,019) item: PIEZADELENA  event: EV056
+002. ID: 056 (023,019) item: PIEZADELENA,2  event: EV056
+003. ID: 056 (023,019) item: PIEZADELENA,3  event: EV056
+004. ID: 057 (010,026) item: PIEZADELENA,3  event: EV057
+005. ID: 057 (010,026) item: PIEZADELENA,2  event: EV057
+006. ID: 057 (010,026) item: PIEZADELENA  event: EV057
+007. ID: 058 (011,011) item: PIEZADELENA  event: EV058
+008. ID: 058 (011,011) item: PIEZADELENA,2  event: EV058
+009. ID: 058 (011,011) item: PIEZADELENA,3  event: EV058
+010. ID: 059 (018,014) item: PIEZADELENA,3  event: EV059
+011. ID: 059 (018,014) item: PIEZADELENA  event: EV059
+012. ID: 059 (018,014) item: PIEZADELENA,2  event: EV059
+-------------------------------
+Map ID: 151. Cueva Algoritmo
+001. ID: 025 (011,011) item: PICO  event: Montañero god
+-------------------------------
+Map ID: 159. Casa de Eda
+001. ID: 001 (008,014) item: CASTELIACONE  event: EV001
+-------------------------------
+Map ID: 160. Ciudad Cardenal (Oeste)
+001. ID: 013 (033,016) item: COFFEE  event: EV013
+002. ID: 035 (029,028) item: SUPERREPEL  event: EV035
+-------------------------------
+Map ID: 161. Cafetería Spinda
+001. ID: 001 (010,009) item: ZUMOLEGENDARIO  event: EV001
+002. ID: 001 (010,009) item: ZUMOVELOCIDAD  event: EV001
+003. ID: 001 (010,009) item: ZUMODUDOSO  event: EV001
+004. ID: 001 (010,009) item: ZUMOLEGENDARIO  event: EV001
+005. ID: 001 (010,009) item: ZUMODEFENSAESP  event: EV001
+006. ID: 001 (010,009) item: ZUMODUDOSO  event: EV001
+007. ID: 001 (010,009) item: ZUMOLEGENDARIO  event: EV001
+008. ID: 001 (010,009) item: ZUMODEFENSA  event: EV001
+009. ID: 001 (010,009) item: ZUMODUDOSO  event: EV001
+010. ID: 001 (010,009) item: ZUMOLEGENDARIO  event: EV001
+011. ID: 001 (010,009) item: ZUMOFUERZAESP  event: EV001
+012. ID: 001 (010,009) item: ZUMODUDOSO  event: EV001
+013. ID: 001 (010,009) item: ZUMOLEGENDARIO  event: EV001
+014. ID: 001 (010,009) item: ZUMOFUERZA  event: EV001
+015. ID: 001 (010,009) item: ZUMODUDOSO  event: EV001
+016. ID: 001 (010,009) item: ZUMOLEGENDARIO  event: EV001
+017. ID: 001 (010,009) item: ZUMOPS  event: EV001
+018. ID: 001 (010,009) item: ZUMODUDOSO  event: EV001
+019. ID: 006 (003,005) item: GOMIMORADO  event: EV006
+020. ID: 006 (003,005) item: GOMIROJO  event: EV006
+021. ID: 006 (003,005) item: GOMIAMARILLO  event: EV006
+022. ID: 006 (003,005) item: GOMIPLATEADO  event: EV006
+023. ID: 006 (003,005) item: GOMIAZUL  event: EV006
+024. ID: 006 (003,005) item: GOMIVERDE  event: EV006
+025. ID: 022 (010,008) item: ZUMOLEGENDARIO  event: EV022
+026. ID: 022 (010,008) item: ZUMOVELOCIDAD  event: EV022
+027. ID: 022 (010,008) item: ZUMODUDOSO  event: EV022
+028. ID: 022 (010,008) item: ZUMOLEGENDARIO  event: EV022
+029. ID: 022 (010,008) item: ZUMODEFENSAESP  event: EV022
+030. ID: 022 (010,008) item: ZUMODUDOSO  event: EV022
+031. ID: 022 (010,008) item: ZUMOLEGENDARIO  event: EV022
+032. ID: 022 (010,008) item: ZUMODEFENSA  event: EV022
+033. ID: 022 (010,008) item: ZUMODUDOSO  event: EV022
+034. ID: 022 (010,008) item: ZUMOLEGENDARIO  event: EV022
+035. ID: 022 (010,008) item: ZUMOFUERZAESP  event: EV022
+036. ID: 022 (010,008) item: ZUMODUDOSO  event: EV022
+037. ID: 022 (010,008) item: ZUMOLEGENDARIO  event: EV022
+038. ID: 022 (010,008) item: ZUMOFUERZA  event: EV022
+039. ID: 022 (010,008) item: ZUMODUDOSO  event: EV022
+040. ID: 022 (010,008) item: ZUMOLEGENDARIO  event: EV022
+041. ID: 022 (010,008) item: ZUMOPS  event: EV022
+042. ID: 022 (010,008) item: ZUMODUDOSO  event: EV022
+-------------------------------
+Map ID: 162. Ciudad Cardenal (Oeste)
+001. ID: 011 (019,013) item: HEALBALL  event: EV011
+002. ID: 019 (046,039) item: TM102  event: EV019
+-------------------------------
+Map ID: 165. Ciudad Cardenal (Centro)
+001. ID: 060 (062,029) item: PIZZA  event: EV060
+002. ID: 083 (061,053) item: PINTURA  event: EV083
+003. ID: 133 (008,036) item: FRESHWATER  event: EV133
+004. ID: 138 (006,042) item: FRESHWATER  event: EV138
+-------------------------------
+Map ID: 166. Ciudad Cardenal (Centro)
+001. ID: 046 (068,013) item: PEARL  event: EV046
+002. ID: 053 (046,039) item: OLDGATEAU  event: EV053
+003. ID: 057 (019,039) item: FOCUSSASH  event: EV057
+-------------------------------
+Map ID: 170. Ciudad Cardenal - Pizzería
+001. ID: 030 (012,008) item: PIZZAPEDIDO,3  event: EV030
+002. ID: 030 (012,008) item: LEFTOVERS  event: EV030
+003. ID: 038 (016,013) item: PIZZA  event: EV038
+-------------------------------
+Map ID: 174. Ciudad Cardenal (Sur)
+001. ID: 034 (050,049) item: EARTHPLATE  event: EV034
+002. ID: 040 (014,013) item: RAREBONE  event: EV040
+003. ID: 046 (068,013) item: WATERGEM  event: EV046
+004. ID: 053 (019,039) item: EVERSTONE  event: EV053
+-------------------------------
+Map ID: 175. Ciudad Cardenal (Este)
+001. ID: 015 (041,014) item: ACUARIO  event: EV015
+002. ID: 026 (015,010) item: POWERLENS  event: padre
+-------------------------------
+Map ID: 176. Ciudad Cardenal (Este)
+001. ID: 015 (014,039) item: TM98  event: EV015
+-------------------------------
+Map ID: 180. Ciudad Cardenal (Norte)
+001. ID: 023 (042,016) item: TM72  event: EV023
+002. ID: 025 (036,039) item: CARTADEAMOR  event: EV025
+-------------------------------
+Map ID: 182. Jardín de los Sueños
+001. ID: 006 (029,022) item: MYSTICWATER  event: Player1
+002. ID: 006 (029,022) item: MYSTICWATER  event: Player1
+003. ID: 007 (028,022) item: MYSTICWATER  event: Player2
+004. ID: 007 (028,022) item: MYSTICWATER  event: Player2
+-------------------------------
+Map ID: 183. Hotel MiraMar
+001. ID: 002 (004,007) item: SILKSCARF  event: PAPA
+002. ID: 011 (016,010) item: PIZZA  event: EV011
+-------------------------------
+Map ID: 184. Hotel MiraMar(P1)
+001. ID: 022 (015,008) item: LUXURYBALL  event: EV022
+-------------------------------
+Map ID: 187. Acuario Cardenal
+001. ID: 014 (013,010) item: DIVEBALL,5  event: EV014
+-------------------------------
+Map ID: 189. Acuario Cardenal
+001. ID: 052 (032,011) item: GOODROD  event: pescador
+-------------------------------
+Map ID: 190. Acuario Cardenal
+001. ID: 067 (008,016) item: WATERGEM  event: EV067
+-------------------------------
+Map ID: 191. Ciudad Cardenal - Gym
+001. ID: 222 (012,008) item: HM03  event: EV222
+002. ID: 222 (012,008) item: TM104  event: EV222
+003. ID: 224 (011,008) item: HM03  event: EV224
+004. ID: 224 (011,008) item: TM104  event: EV224
+005. ID: 225 (013,008) item: HM03  event: EV225
+006. ID: 225 (013,008) item: TM104  event: EV225
+-------------------------------
+Map ID: 201. Iglesia Cardenal
+001. ID: 006 (012,011) item: SACREDASH  event: EV006
+002. ID: 012 (008,020) item: QUICKBALL  event: EV012
+-------------------------------
+Map ID: 204. Symphony of the Seas
+001. ID: 038 (047,011) item: OVALSTONE  event: EV038
+002. ID: 066 (031,083) item: QUICKCLAW  event: EV066
+-------------------------------
+Map ID: 206. Pueblo Tucán
+001. ID: 007 (023,017) item: BRIGHTPOWDER  event: EV007
+-------------------------------
+Map ID: 207. Gate 12
+001. ID: 014 (003,005) item: FRESHWATER  event: EV014
+-------------------------------
+Map ID: 208. Ruta 11
+001. ID: 013 (030,028) item: GOLD  event: EV013
+002. ID: 074 (019,045) item: PIEZADELENA,2  event: EV074
+003. ID: 074 (019,045) item: PIEZADELENA,3  event: EV074
+004. ID: 074 (019,045) item: PIEZADELENA  event: EV074
+005. ID: 075 (011,031) item: PIEZADELENA  event: EV075
+006. ID: 075 (011,031) item: PIEZADELENA,2  event: EV075
+007. ID: 075 (011,031) item: PIEZADELENA,3  event: EV075
+008. ID: 076 (036,030) item: PIEZADELENA,2  event: EV076
+009. ID: 076 (036,030) item: PIEZADELENA,3  event: EV076
+010. ID: 076 (036,030) item: PIEZADELENA  event: EV076
+011. ID: 078 (021,005) item: PIEZADELENA  event: EV078
+012. ID: 078 (021,005) item: PIEZADELENA,2  event: EV078
+013. ID: 078 (021,005) item: PIEZADELENA,3  event: EV078
+-------------------------------
+Map ID: 209. Bosque del Tiempo
+001. ID: 055 (008,013) item: SOOTHEBELL  event: EV055
+002. ID: 057 (007,013) item: SOOTHEBELL  event: EV057
+003. ID: 063 (025,021) item: PIEZADELENA,3  event: EV063
+004. ID: 063 (025,021) item: PIEZADELENA,2  event: EV063
+005. ID: 063 (025,021) item: PIEZADELENA  event: EV063
+006. ID: 064 (023,034) item: PIEZADELENA,2  event: EV064
+007. ID: 064 (023,034) item: PIEZADELENA  event: EV064
+008. ID: 064 (023,034) item: PIEZADELENA,3  event: EV064
+009. ID: 065 (011,022) item: PIEZADELENA,2  event: EV065
+010. ID: 065 (011,022) item: PIEZADELENA,3  event: EV065
+011. ID: 065 (011,022) item: PIEZADELENA  event: EV065
+012. ID: 066 (029,011) item: PIEZADELENA  event: EV066
+013. ID: 066 (029,011) item: PIEZADELENA,2  event: EV066
+014. ID: 066 (029,011) item: PIEZADELENA,3  event: EV066
+015. ID: 067 (049,005) item: PIEZADELENA,2  event: EV067
+016. ID: 067 (049,005) item: PIEZADELENA,3  event: EV067
+017. ID: 067 (049,005) item: PIEZADELENA  event: EV067
+018. ID: 068 (045,033) item: PIEZADELENA,3  event: EV068
+019. ID: 068 (045,033) item: PIEZADELENA,2  event: EV068
+020. ID: 068 (045,033) item: PIEZADELENA  event: EV068
+021. ID: 069 (018,036) item: PIEZADELENA,2  event: EV069
+022. ID: 069 (018,036) item: PIEZADELENA  event: EV069
+023. ID: 069 (018,036) item: PIEZADELENA,3  event: EV069
+024. ID: 070 (025,005) item: GOLD  event: EV070
+-------------------------------
+Map ID: 210. Ruta 12
+001. ID: 015 (013,034) item: PIEZADELENA,2  event: EV015
+002. ID: 015 (013,034) item: PIEZADELENA  event: EV015
+003. ID: 015 (013,034) item: PIEZADELENA,3  event: EV015
+004. ID: 041 (051,013) item: GOLD  event: EV041
+005. ID: 055 (042,024) item: PIEZADELENA,3  event: EV055
+006. ID: 055 (042,024) item: PIEZADELENA,2  event: EV055
+007. ID: 055 (042,024) item: PIEZADELENA  event: EV055
+008. ID: 056 (028,015) item: PIEZADELENA  event: EV056
+009. ID: 056 (028,015) item: PIEZADELENA,3  event: EV056
+010. ID: 056 (028,015) item: PIEZADELENA,2  event: EV056
+011. ID: 057 (006,009) item: PIEZADELENA,3  event: EV057
+012. ID: 057 (006,009) item: PIEZADELENA  event: EV057
+013. ID: 057 (006,009) item: PIEZADELENA,2  event: EV057
+014. ID: 058 (038,036) item: PIEZADELENA  event: EV058
+015. ID: 058 (038,036) item: PIEZADELENA,2  event: EV058
+016. ID: 058 (038,036) item: PIEZADELENA,3  event: EV058
+-------------------------------
+Map ID: 211. Ciudad Forbe
+001. ID: 064 (037,013) item: LUREBALL,10  event: EV064
+002. ID: 070 (051,034) item: BLUEFLUTE  event: EV070
+-------------------------------
+Map ID: 212. Ruta 13
+001. ID: 009 (005,024) item: BIGMUSHROOM  event: EV009
+002. ID: 054 (016,019) item: PIEZADELENA  event: EV054
+003. ID: 054 (016,019) item: PIEZADELENA,2  event: EV054
+004. ID: 054 (016,019) item: PIEZADELENA,3  event: EV054
+005. ID: 055 (038,007) item: PIEZADELENA,3  event: EV055
+006. ID: 055 (038,007) item: PIEZADELENA,2  event: EV055
+007. ID: 055 (038,007) item: PIEZADELENA  event: EV055
+008. ID: 056 (002,028) item: PIEZADELENA,2  event: EV056
+009. ID: 056 (002,028) item: PIEZADELENA,3  event: EV056
+010. ID: 056 (002,028) item: PIEZADELENA  event: EV056
+011. ID: 057 (035,025) item: PIEZADELENA  event: EV057
+012. ID: 057 (035,025) item: PIEZADELENA,2  event: EV057
+013. ID: 057 (035,025) item: PIEZADELENA,3  event: EV057
+014. ID: 058 (016,028) item: PIEZADELENA,2  event: EV058
+015. ID: 058 (016,028) item: PIEZADELENA,3  event: EV058
+016. ID: 058 (016,028) item: PIEZADELENA  event: EV058
+017. ID: 059 (030,044) item: PIEZADELENA,3  event: EV059
+018. ID: 059 (030,044) item: PIEZADELENA  event: EV059
+019. ID: 059 (030,044) item: PIEZADELENA,2  event: EV059
+020. ID: 060 (009,053) item: PIEZADELENA,3  event: EV060
+021. ID: 060 (009,053) item: PIEZADELENA,2  event: EV060
+022. ID: 060 (009,053) item: PIEZADELENA  event: EV060
+023. ID: 066 (046,042) item: GOLD  event: EV066
+-------------------------------
+Map ID: 217. Ruta 14
+001. ID: 065 (038,029) item: PIEZADELENA  event: EV065
+002. ID: 065 (038,029) item: PIEZADELENA,2  event: EV065
+003. ID: 065 (038,029) item: PIEZADELENA,3  event: EV065
+004. ID: 066 (029,022) item: PIEZADELENA,3  event: EV066
+005. ID: 066 (029,022) item: PIEZADELENA,2  event: EV066
+006. ID: 066 (029,022) item: PIEZADELENA  event: EV066
+007. ID: 067 (017,030) item: PIEZADELENA,2  event: EV067
+008. ID: 067 (017,030) item: PIEZADELENA,3  event: EV067
+009. ID: 067 (017,030) item: PIEZADELENA  event: EV067
+010. ID: 068 (005,011) item: PIEZADELENA,2  event: EV068
+011. ID: 068 (005,011) item: PIEZADELENA,3  event: EV068
+012. ID: 068 (005,011) item: PIEZADELENA  event: EV068
+013. ID: 069 (011,006) item: PIEZADELENA,2  event: EV069
+014. ID: 069 (011,006) item: PIEZADELENA  event: EV069
+015. ID: 069 (011,006) item: PIEZADELENA,3  event: EV069
+016. ID: 077 (013,009) item: GOLD  event: EV077
+-------------------------------
+Map ID: 223. Bosque de los Recuerdos
+001. ID: 006 (059,054) item: GOLD  event: EV006
+002. ID: 057 (012,036) item: PIEZADELENA,2  event: EV057
+003. ID: 057 (012,036) item: PIEZADELENA,3  event: EV057
+004. ID: 057 (012,036) item: PIEZADELENA  event: EV057
+005. ID: 058 (038,045) item: PIEZADELENA,3  event: EV058
+006. ID: 058 (038,045) item: PIEZADELENA  event: EV058
+007. ID: 058 (038,045) item: PIEZADELENA,2  event: EV058
+008. ID: 059 (043,049) item: PIEZADELENA,2  event: EV059
+009. ID: 059 (043,049) item: PIEZADELENA  event: EV059
+010. ID: 059 (043,049) item: PIEZADELENA,3  event: EV059
+011. ID: 060 (032,033) item: PIEZADELENA,3  event: EV060
+012. ID: 060 (032,033) item: PIEZADELENA,2  event: EV060
+013. ID: 060 (032,033) item: PIEZADELENA  event: EV060
+014. ID: 061 (025,015) item: PIEZADELENA,3  event: EV061
+015. ID: 061 (025,015) item: PIEZADELENA,2  event: EV061
+016. ID: 061 (025,015) item: PIEZADELENA  event: EV061
+017. ID: 066 (040,019) item: PIEZADELENA  event: EV066
+018. ID: 066 (040,019) item: PIEZADELENA,2  event: EV066
+019. ID: 066 (040,019) item: PIEZADELENA,3  event: EV066
+020. ID: 067 (003,019) item: PIEZADELENA,2  event: EV067
+021. ID: 067 (003,019) item: PIEZADELENA,3  event: EV067
+022. ID: 067 (003,019) item: PIEZADELENA  event: EV067
+023. ID: 068 (026,010) item: PIEZADELENA,2  event: EV068
+024. ID: 068 (026,010) item: PIEZADELENA,3  event: EV068
+025. ID: 068 (026,010) item: PIEZADELENA  event: EV068
+026. ID: 069 (060,041) item: PIEZADELENA  event: EV069
+027. ID: 069 (060,041) item: PIEZADELENA,2  event: EV069
+028. ID: 069 (060,041) item: PIEZADELENA,3  event: EV069
+029. ID: 070 (061,024) item: PIEZADELENA,2  event: EV070
+030. ID: 070 (061,024) item: PIEZADELENA,3  event: EV070
+031. ID: 070 (061,024) item: PIEZADELENA  event: EV070
+032. ID: 071 (048,007) item: PIEZADELENA,2  event: EV071
+033. ID: 071 (048,007) item: PIEZADELENA,3  event: EV071
+034. ID: 071 (048,007) item: PIEZADELENA  event: EV071
+035. ID: 184 (066,018) item: SUPERROD  event: pescador
+-------------------------------
+Map ID: 225. Ciudad Forbe - Casa de Sakura
+001. ID: 015 (020,010) item: LIGHTCLAY  event: EV015
+-------------------------------
+Map ID: 228. Pueblo Mirlo
+001. ID: 039 (039,011) item: RARECANDY  event: EV039
+-------------------------------
+Map ID: 229. Ciudad Forbe - Gym
+001. ID: 002 (024,027) item: TM89  event: EV002
+-------------------------------
+Map ID: 233. Ciudad Forbe
+001. ID: 064 (037,013) item: LUREBALL,10  event: EV064
+-------------------------------
+Map ID: 257. Ruta 15
+001. ID: 054 (043,022) item: PIEZADELENA  event: EV054
+002. ID: 054 (043,022) item: PIEZADELENA,2  event: EV054
+003. ID: 054 (043,022) item: PIEZADELENA,3  event: EV054
+004. ID: 055 (039,010) item: PIEZADELENA,3  event: EV055
+005. ID: 055 (039,010) item: PIEZADELENA,2  event: EV055
+006. ID: 055 (039,010) item: PIEZADELENA  event: EV055
+007. ID: 056 (026,014) item: PIEZADELENA  event: EV056
+008. ID: 056 (026,014) item: PIEZADELENA,3  event: EV056
+009. ID: 056 (026,014) item: PIEZADELENA,2  event: EV056
+010. ID: 057 (011,012) item: PIEZADELENA,3  event: EV057
+011. ID: 057 (011,012) item: PIEZADELENA,2  event: EV057
+012. ID: 057 (011,012) item: PIEZADELENA  event: EV057
+013. ID: 058 (031,007) item: PIEZADELENA,2  event: EV058
+014. ID: 058 (031,007) item: PIEZADELENA  event: EV058
+015. ID: 058 (031,007) item: PIEZADELENA,3  event: EV058
+016. ID: 059 (012,024) item: PIEZADELENA,2  event: EV059
+017. ID: 059 (012,024) item: PIEZADELENA  event: EV059
+018. ID: 059 (012,024) item: PIEZADELENA,3  event: EV059
+019. ID: 062 (040,004) item: GOLD  event: EV062
+-------------------------------
+Map ID: 270. Pueblo Mirlo Gym 
+001. ID: 058 (015,015) item: FRESHWATER  event: EV058
+-------------------------------
+Map ID: 278. Pueblo Mirlo Gym Final
+001. ID: 003 (016,013) item: SILBATO  event: EV003
+002. ID: 003 (016,013) item: TM59  event: EV003
+003. ID: 014 (017,013) item: SILBATO  event: EV014
+004. ID: 014 (017,013) item: TM59  event: EV014
+005. ID: 015 (015,013) item: SILBATO  event: EV015
+006. ID: 015 (015,013) item: TM59  event: EV015
+-------------------------------
+Map ID: 292. Pueblo Mirlo 
+001. ID: 026 (033,017) item: TM40  event: EV026
+002. ID: 034 (008,047) item: CHOICESCARF  event: Joven
+-------------------------------
+Map ID: 329. Ruta 16
+001. ID: 015 (012,032) item: PIEZADELENA,2  event: EV015
+002. ID: 015 (012,032) item: PIEZADELENA,3  event: EV015
+003. ID: 015 (012,032) item: PIEZADELENA  event: EV015
+004. ID: 016 (005,019) item: PIEZADELENA  event: EV016
+005. ID: 016 (005,019) item: PIEZADELENA,2  event: EV016
+006. ID: 016 (005,019) item: PIEZADELENA,3  event: EV016
+007. ID: 018 (041,018) item: PIEZADELENA  event: EV018
+008. ID: 018 (041,018) item: PIEZADELENA,3  event: EV018
+009. ID: 018 (041,018) item: PIEZADELENA,2  event: EV018
+010. ID: 019 (054,018) item: PIEZADELENA,2  event: EV019
+011. ID: 019 (054,018) item: PIEZADELENA  event: EV019
+012. ID: 019 (054,018) item: PIEZADELENA,3  event: EV019
+013. ID: 020 (050,025) item: PIEZADELENA  event: EV020
+014. ID: 020 (050,025) item: PIEZADELENA,2  event: EV020
+015. ID: 020 (050,025) item: PIEZADELENA,3  event: EV020
+016. ID: 021 (013,017) item: PIEZADELENA,2  event: EV021
+017. ID: 021 (013,017) item: PIEZADELENA  event: EV021
+018. ID: 021 (013,017) item: PIEZADELENA,3  event: EV021
+019. ID: 022 (025,033) item: PIEZADELENA,2  event: EV022
+020. ID: 022 (025,033) item: PIEZADELENA  event: EV022
+021. ID: 022 (025,033) item: PIEZADELENA,3  event: EV022
+022. ID: 066 (005,021) item: GOLD  event: EV066
+-------------------------------
+Map ID: 332. Casa - Ruta 15
+001. ID: 003 (006,017) item: WIDELENS  event: EV003
+-------------------------------
+Map ID: 339. Ruta 16 
+001. ID: 019 (019,017) item: PIEZADELENA,2  event: EV019
+002. ID: 019 (019,017) item: PIEZADELENA,3  event: EV019
+003. ID: 019 (019,017) item: PIEZADELENA  event: EV019
+004. ID: 020 (010,014) item: PIEZADELENA,2  event: EV020
+005. ID: 020 (010,014) item: PIEZADELENA  event: EV020
+006. ID: 020 (010,014) item: PIEZADELENA,3  event: EV020
+007. ID: 021 (005,022) item: PIEZADELENA  event: EV021
+008. ID: 021 (005,022) item: PIEZADELENA,2  event: EV021
+009. ID: 021 (005,022) item: PIEZADELENA,3  event: EV021
+010. ID: 022 (033,013) item: PIEZADELENA,2  event: EV022
+011. ID: 022 (033,013) item: PIEZADELENA,3  event: EV022
+012. ID: 022 (033,013) item: PIEZADELENA  event: EV022
+013. ID: 023 (023,034) item: PIEZADELENA,3  event: EV023
+014. ID: 023 (023,034) item: PIEZADELENA,2  event: EV023
+015. ID: 023 (023,034) item: PIEZADELENA  event: EV023
+016. ID: 024 (031,025) item: PIEZADELENA,2  event: EV024
+017. ID: 024 (031,025) item: PIEZADELENA,3  event: EV024
+018. ID: 024 (031,025) item: PIEZADELENA  event: EV024
+-------------------------------
+Map ID: 347. Ruta 17
+001. ID: 010 (046,078) item: GOLD  event: EV010
+002. ID: 058 (008,074) item: HARDSTONE  event: EV058
+003. ID: 066 (008,067) item: LUCKYPUNCH  event: EV066
+-------------------------------
+Map ID: 348. Ruta 19
+001. ID: 004 (012,044) item: GOLD  event: EV004
+-------------------------------
+Map ID: 370. Habitación de Shadow
+001. ID: 009 (000,021) item: BANETTITE  event:  
+-------------------------------
+Map ID: 376. Cueva Magnética (P0)
+001. ID: 076 (054,040) item: LIFEORB  event: Cientifico
+-------------------------------
+Map ID: 379. Cueva Magnética (P1)
+001. ID: 010 (015,027) item: CHOICEBAND  event: EV010
+-------------------------------
+Map ID: 390. Ciudad Lugano (Oeste)
+001. ID: 081 (090,008) item: DARKGEM  event: EV081
+-------------------------------
+Map ID: 394. Bosque Perdido
+001. ID: 039 (019,024) item: PIEZADELENA,2  event: EV039
+002. ID: 039 (019,024) item: PIEZADELENA,3  event: EV039
+003. ID: 039 (019,024) item: PIEZADELENA  event: EV039
+004. ID: 040 (034,025) item: PIEZADELENA,2  event: EV040
+005. ID: 040 (034,025) item: PIEZADELENA,3  event: EV040
+006. ID: 040 (034,025) item: PIEZADELENA  event: EV040
+007. ID: 041 (038,015) item: PIEZADELENA,3  event: EV041
+008. ID: 041 (038,015) item: PIEZADELENA  event: EV041
+009. ID: 041 (038,015) item: PIEZADELENA,2  event: EV041
+010. ID: 042 (032,010) item: PIEZADELENA  event: EV042
+011. ID: 042 (032,010) item: PIEZADELENA,2  event: EV042
+012. ID: 042 (032,010) item: PIEZADELENA,3  event: EV042
+013. ID: 043 (007,020) item: PIEZADELENA  event: EV043
+014. ID: 043 (007,020) item: PIEZADELENA,2  event: EV043
+015. ID: 043 (007,020) item: PIEZADELENA,3  event: EV043
+016. ID: 046 (022,002) item: GOLD  event: EV046
+-------------------------------
+Map ID: 395. Ruta 16
+001. ID: 017 (012,013) item: PIEZADELENA,2  event: EV017
+002. ID: 017 (012,013) item: PIEZADELENA,3  event: EV017
+003. ID: 017 (012,013) item: PIEZADELENA  event: EV017
+004. ID: 018 (007,004) item: PIEZADELENA,2  event: EV018
+005. ID: 018 (007,004) item: PIEZADELENA,3  event: EV018
+006. ID: 018 (007,004) item: PIEZADELENA  event: EV018
+-------------------------------
+Map ID: 396. Ciudad Lugano (Centro)
+001. ID: 073 (008,044) item: TM107  event: EV073
+-------------------------------
+Map ID: 399. Ciudad Lugano (Sur)
+001. ID: 042 (011,019) item: EJECTBUTTON  event: EV042
+002. ID: 050 (031,027) item: AMULETCOIN  event: EVENT
+-------------------------------
+Map ID: 408. Hospital (PB)
+001. ID: 013 (024,011) item: IRON  event: EV013
+-------------------------------
+Map ID: 409. Hospital (P1)
+001. ID: 006 (020,013) item: CHOICESPECS  event: EV006
+002. ID: 008 (006,015) item: FULLRESTORE  event: EV008
+-------------------------------
+Map ID: 411. Hospital (Azotea)
+001. ID: 003 (020,009) item: MAXREVIVE  event: EV003
+-------------------------------
+Map ID: 412. Ciudad Lugano (Centro)
+001. ID: 047 (061,012) item: TM107  event: EV047
+002. ID: 073 (008,044) item: TM107  event: EV073
+-------------------------------
+Map ID: 418. Ciudad Lugano (Centro)
+001. ID: 047 (061,012) item: TM107  event: EV047
+002. ID: 073 (008,044) item: TM107  event: EV073
+-------------------------------
+Map ID: 422. Ciudad Lugano (Centro)
+001. ID: 047 (061,012) item: TM107  event: EV047
+002. ID: 073 (008,044) item: TM107  event: EV073
+-------------------------------
+Map ID: 428. Galería de Arte (P1)
+001. ID: 025 (018,014) item: GALERIA  event: Fuente, size(3,1)
+-------------------------------
+Map ID: 429. Parque del Retiro
+001. ID: 028 (042,032) item: SITRUSBERRY,3  event: EV028
+002. ID: 036 (015,009) item: LUREBALL,2  event: EV036
+-------------------------------
+Map ID: 432. Hospital (P1)
+001. ID: 008 (022,019) item: CHARCOAL  event: EV008
+-------------------------------
+Map ID: 435. Unbreakable Ties S.A
+001. ID: 003 (012,010) item: NUGGET,10  event: YO XD
+002. ID: 003 (012,010) item: EXPCHARM  event: YO XD
+003. ID: 003 (012,010) item: SHINYCHARM  event: YO XD
+004. ID: 003 (012,010) item: QUICKBALL,20  event: YO XD
+-------------------------------
+Map ID: 436. Unbreakable Ties S.A
+001. ID: 010 (012,010) item: QUICKBALL,20  event: YO XD
+002. ID: 010 (012,010) item: NUGGET,10  event: YO XD
+003. ID: 010 (012,010) item: EXPCHARM  event: YO XD
+004. ID: 010 (012,010) item: SHINYCHARM  event: YO XD
+005. ID: 010 (012,010) item: NUGGET,10  event: YO XD
+006. ID: 010 (012,010) item: EXPCHARM  event: YO XD
+007. ID: 010 (012,010) item: SHINYCHARM  event: YO XD
+008. ID: 010 (012,010) item: SHINYCHARM  event: YO XD
+009. ID: 010 (012,010) item: SHINYCHARM  event: YO XD
+010. ID: 010 (012,010) item: MASTERBALL,10  event: YO XD
+-------------------------------
+Map ID: 439. Floristería
+001. ID: 012 (018,008) item: RINDOBERRY  event: EV012
+-------------------------------
+Map ID: 440. Centro Comercial (PB)
+001. ID: 004 (009,007) item: MASTERBALL  event: Lottery
+002. ID: 004 (009,007) item: ULTRABALL  event: Lottery
+003. ID: 004 (009,007) item: PPUP  event: Lottery
+004. ID: 004 (009,007) item: NUGGET  event: Lottery
+005. ID: 004 (009,007) item: MAXREVIVE  event: Lottery
+006. ID: 004 (009,007) item: getVariable  event: Lottery
+007. ID: 011 (009,009) item: PPUP  event: EV011
+008. ID: 011 (009,009) item: NUGGET  event: EV011
+009. ID: 011 (009,009) item: MAXREVIVE  event: EV011
+010. ID: 011 (009,009) item: MASTERBALL  event: EV011
+011. ID: 011 (009,009) item: ULTRABALL  event: EV011
+-------------------------------
+Map ID: 441. Koffeetería
+001. ID: 009 (003,014) item: ROSQUILLA,3  event: EV009
+002. ID: 024 (005,009) item: COFFEE  event: EV024
+-------------------------------
+Map ID: 443. Centro Comercial (P2)
+001. ID: 011 (014,010) item: QUICKBALL,3  event: EV011
+-------------------------------
+Map ID: 448. Centro Comercial (Azotea)
+001. ID: 007 (021,009) item: LUXURYBALL,2  event: EV007
+-------------------------------
+Map ID: 449. Centro Comercial (P7)
+001. ID: 011 (015,008) item: TRAJE  event: Mart
+-------------------------------
+Map ID: 451. Parque del Retiro
+001. ID: 028 (042,032) item: SITRUSBERRY,3  event: EV028
+002. ID: 036 (015,009) item: LUREBALL,2  event: EV036
+003. ID: 090 (019,019) item: GOLD  event: EV090
+-------------------------------
+Map ID: 454. Gate 19
+001. ID: 014 (003,005) item: FRESHWATER  event: EV014
+-------------------------------
+Map ID: 459. Casino
+001. ID: 029 (020,010) item: TM113  event: EV029
+002. ID: 029 (020,010) item: TM114  event: EV029
+003. ID: 029 (020,010) item: TM112  event: EV029
+-------------------------------
+Map ID: 460. Casino
+001. ID: 029 (020,010) item: TM113  event: EV029
+002. ID: 029 (020,010) item: TM114  event: EV029
+003. ID: 029 (020,010) item: TM112  event: EV029
+-------------------------------
+Map ID: 462. Ciudad Lugano (Centro)
+001. ID: 073 (008,044) item: TM107  event: EV073
+-------------------------------
+Map ID: 471. Floristería
+001. ID: 012 (018,008) item: RINDOBERRY  event: EV012
+-------------------------------
+Map ID: 473. Ciudad Lugano (Centro)
+001. ID: 073 (008,044) item: TM107  event: EV073
+-------------------------------
+Map ID: 506. Cloacas - Zona B
+001. ID: 033 (036,010) item: NUNCHAKUS  event: EV033
+-------------------------------
+Map ID: 507. Cloacas - Zona C
+001. ID: 035 (024,018) item: LLAVESCLOACAS  event: LEONARDO
+-------------------------------
+Map ID: 508. Cloacas Agua Media
+001. ID: 005 (024,018) item: LLAVESCLOACAS  event: LEONARDO
+-------------------------------
+Map ID: 513. Cloacas - Zona C FINAL
+001. ID: 048 (024,018) item: LLAVESCLOACAS  event: LEONARDO
+-------------------------------
+Map ID: 519. Frente Batalla
+001. ID: 001 (000,019) item: CAMERA  event: EV001
+-------------------------------
+Map ID: 520. Frente Batalla
+001. ID: 001 (009,007) item: SHARD_ROJA  event: Single battles NPC
+002. ID: 001 (009,007) item: MAXIVS  event: Single battles NPC
+003. ID: 001 (009,007) item: SHINYDEW  event: Single battles NPC
+-------------------------------
+Map ID: 522. Frente Batalla
+001. ID: 003 (009,007) item: SHARD_AZUL  event: Single battles NPC
+002. ID: 003 (009,007) item: MAXIVS  event: Single battles NPC
+003. ID: 003 (009,007) item: SHINYDEW  event: Single battles NPC
+-------------------------------
+Map ID: 524. Frente Batalla
+001. ID: 001 (009,007) item: SHARD_ROSA  event: Single battles NPC
+002. ID: 001 (009,007) item: MAXIVS  event: Single battles NPC
+003. ID: 001 (009,007) item: SHINYDEW  event: Single battles NPC
+-------------------------------
+Map ID: 526. Frente Batalla
+001. ID: 001 (009,007) item: SHARD_VERDE  event: Single battles NPC
+002. ID: 001 (009,007) item: MAXIVS  event: Single battles NPC
+003. ID: 001 (009,007) item: SHINYDEW  event: Single battles NPC
+-------------------------------
+Map ID: 528. Frente Batalla
+001. ID: 001 (009,007) item: SHARD_AMARILLA  event: Single battles NPC
+002. ID: 001 (009,007) item: MAXIVS  event: Single battles NPC
+003. ID: 001 (009,007) item: SHINYDEW  event: Single battles NPC
+-------------------------------
+Map ID: 538. Casino (P1)
+001. ID: 014 (018,024) item: TAPONES  event: Evento
+002. ID: 014 (018,024) item: AGUASAGRADA  event: Evento
+003. ID: 014 (018,024) item: PINGANILLO  event: Evento
+-------------------------------
+Map ID: 540. Jardín del Palacio Real
+001. ID: 048 (042,020) item: GOLD  event: EV048
+-------------------------------
+Map ID: 578. Laboratorio (P-1)
+001. ID: 141 (011,030) item: MAGNET  event: EV141
