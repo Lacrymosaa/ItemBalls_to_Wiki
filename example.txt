@@ -1,0 +1,1518 @@
+{| class="wikitable sortable"
+|+
+! Name !! Use !! Location
+|-
+| [[File:ABILITYCAPSULE.png|50px]] Ability Capsule || A capsule that allows a Pokemon to switch between its two abilities. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:ABILITYPATCH.png|50px]] Ability Patch || A patch that allows a Pokemon with a regular ability to have a rare ability. || Lugano City (North) - Shopping Center (P6), Lugano City (South)
+|-
+| [[File:ABILITYURGE.png|50px]] Ability Urge || When used, it activates the Ability of an ally Pokémon. || TBD
+|-
+| [[File:ABOMASITE.png|50px]] Abomasite || One of the mysterious Mega Stones. It allows Abomasnow to Mega Evolve in battle. || TBD
+|-
+| [[File:ABSOLITE.png|50px]] Absolite || One of the mysterious Mega Stones. It allows Absol to Mega Evolve in battle. || Squawk Trail
+|-
+| [[File:ABSORBBULB.png|50px]] Absorb Bulb || Single-use root that boosts Sp. Attack when hit by a Water-type move. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:ACUARIO.png|50px]] Aquarium Ticket || This ticket allows free entry to the Aquarium, lucky, isn't it? || Cardenal City (East)
+|-
+| [[File:ADAMANTMINT.png|50px]] Adamant Mint || When a Pokemon smells it, its Attack will grow quickly, but its Sp. Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:ADAMANTORB.png|50px]] Adamant Orb || A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves. || TBD
+|-
+| [[File:ADRENALINEORB.png|50px]] Adrenaline Orb || An item to be held by a Pokémon. It boosts Speed when intimidated. It can be used only once. || TBD
+|-
+| [[File:AERODACTYLITE.png|50px]] Aerodactylite || One of the mysterious Mega Stones. It allows Aerodactyl to Mega Evolve in battle. || Algorithm Cave, Hoenn Gym Leader Roxanne
+|-
+| [[File:AGGRONITE.png|50px]] Aggronite || One of the mysterious Mega Stones. It allows Aggron to Mega Evolve in battle. || Route 16 - Magnetic Cave (P0)
+|-
+| [[File:AGUASAGRADA.png|50px]] Holy Water || A flask of mircale water that instantly heals your Pokemon. || Lugano City (Center), Casino (P-1)
+|-
+| [[File:AGUASAGRADA2.png|50px]] AGUASAGRADA2 || TBD || TBD
+|-
+| [[File:AGUAVBERRY.png|50px]] Aguav Berry || Restores the HP of the Pokemon using it in a pinch, but may cause confusion. || Nymph City
+|-
+| [[File:AIRBALLOON.png|50px]] Air Balloon || The Pokemon holding it will float in the air. If hit, it will burst. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:AIRMAIL.png|50px]] Air Mail || Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery. || TBD
+|-
+| [[File:ALAKAZITE.png|50px]] Alakazite || One of the mysterious Mega Stones. It allows Alakazam to Mega Evolve in battle. || TBD
+|-
+| [[File:ALTARIANITE.png|50px]] Altarianite || One of the mysterious Mega Stones. It allows Altaria to Mega Evolve in battle. || Greenfinch City, Hoenn Gym Leader Winona
+|-
+| [[File:AMPHAROSITE.png|50px]] Ampharosite || One of the mysterious Mega Stones. It allows Ampharos to Mega Evolve in battle. || TBD
+|-
+| [[File:AMULETCOIN.png|50px]] Amulet Coin || If the Pokemon holding it participates in battle, it doubles the money earned. || Lugano City (South)
+|-
+| [[File:ANTIDOTE.png|50px]] Antidote || Spray-type medicine that cures a Pokemon from poison. || Linnet Town - PokeCenter, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch Forest, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:ANZUELO.png|50px]] Tiny Lure || It's a hook with Dratini ears. || Blackbird Town
+|-
+| [[File:APICOTBERRY.png|50px]] Apicot Berry || If held by a Pokemon, it raises Sp. Defense in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:ARMORFOSSIL.png|50px]] Armor Fossil || A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar. || Mining
+|-
+| [[File:ASPEARBERRY.png|50px]] Aspear Berry || Pokemon can hold it or use it to thaw out. || Nymph City
+|-
+| [[File:ASSAULTVEST.png|50px]] Assault Vest || Vest that boosts the Sp. Defense of the Pokemon wearing it, but prevents the use of status moves. || Blackbird Town - Celestial Tower (P0), Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:AUDINITE.png|50px]] Audinite || One of the mysterious Mega Stones. It allows Audino to Mega Evolve in battle. || TBD
+|-
+| [[File:AURORATICKET.png|50px]] Aurora Ticket || A ticket required to board the ship to Doxy Island. It glows beautifully. || TBD
+|-
+| [[File:AUSPICIOUSARMOR.png|50px]] Auspicious Armor || A peculiar set of armor that can make a certain Pokémon evolve. Auspicious wishes live within it. || TBD
+|-
+| [[File:AWAKENING.png|50px]] Awakening || Spray-type medicine that awakens a Pokemon from sleep. || Linnet Town - PokeCenter, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch Forest, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:AZUFRE.png|50px]] Sulfur || A dubious mineral quality drink that RESETS a Pokemon's EVs. || Lugano City (North) - Shopping Center (P5), Lugano City (North) - Building
+|-
+| [[File:BABIRIBERRY.png|50px]] Babiri Berry || If held by a Pokemon, it weakens super effective Steel-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:back.png|50px]] Back || TBD || TBD
+|-
+| [[File:BALMMUSHROOM.png|50px]] Balm Mushroom || A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price. || Route 16 - Lost Forest, Floral Pass, Route 20 - Squawk Trail, Route 20 - Squawk Cave
+|-
+| [[File:BANETTITE.png|50px]] Banettite || One of the mysterious Mega Stones. It allows Banette to Mega Evolve in battle. || Abandoned Orphanage, Trainer Shadow
+|-
+| [[File:BEASTBALL.png|50px]] Beast Ball || A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others. || TBD
+|-
+| [[File:BEEDRILLITE.png|50px]] Beedrillite || One of the mysterious Mega Stones. It allows Beedrill to Mega Evolve in battle. || TBD
+|-
+| [[File:BELUEBERRY.png|50px]] Belue Berry || In the Sinnoh region, they like to make sweets known as Poffins with this Berry. || TBD
+|-
+| [[File:BERRYJUICE.png|50px]] Berry Juice || A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points. || TBD
+|-
+| [[File:BERRYSWEET.png|50px]] Berry Sweet || A berry-shaped sweet. When a Milcery holds this, it spins around happily. || TBD
+|-
+| [[File:BICYCLE.png|50px]] Mudsdale saddle || It is a Mudsdale mount that allows you to go faster than running. || Route 21 - Farm Store
+|-
+| [[File:BICYCLE1.png|50px]] Tauros mount || Its is a Tauros mount from Paldea, which allows you to go faster than with a Mudsdale. || Route 21 - Farm Store
+|-
+| [[File:BICYCLE2.png|50px]] Rapidash mount || It is a Rapidash Shiny mount, which allows you to go faster than with a Tauros. || Route 21 - Farm Store
+|-
+| [[File:BIGMALASADA.png|50px]] Big Malasada || The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon. || TBD
+|-
+| [[File:BIGMUSHROOM.png|50px]] Big Mushroom || Large and uncommon mushroom, very popular among certain gourmet groups. || Route 13, Greenfinch City, Route 20 - Tanager Cavern
+|-
+| [[File:BIGNUGGET.png|50px]] Big Nugget || A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price. || Lugano City (North) - Royal Palace (P2)
+|-
+| [[File:BIGPEARL.png|50px]] Big Pearl || A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops. || TBD
+|-
+| [[File:BIGROOT.png|50px]] Big Root || A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP. || Blackbird Town
+|-
+| [[File:BINDINGBAND.png|50px]] Binding Band || A band that increases the power of binding moves when held. || Route 16 - Lost Forest
+|-
+| [[File:BLACKAPRICORN.png|50px]] Black Apricorn || A black Apricorn. It has an indescribable scent. || TBD
+|-
+| [[File:BLACKAUGURITE.png|50px]] Black Mineral || A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon. || Lugano City (North) - Shopping Center (P3), Route 20
+|-
+| [[File:BLACKBELT.png|50px]] Black Belt || Must be held by a Pokemon. Increases determination and boosts Fighting-type moves. || Route 7
+|-
+| [[File:BLACKFLUTE.png|50px]] Black Flute || Black crystal flute whose melody helps reduce the chances of encountering wild Pokemon. || Route 20 - Squawk Trail
+|-
+| [[File:BLACKGLASSES.png|50px]] Black Glasses || An item to be held by a Pokémon. It is a shady-looking pair of glasses that boosts Dark-type moves. || Cardenal City (Center) - Hotel MiraMar (P1) Room 104, Lugano City (North) - Royal Palace (P1)
+|-
+| [[File:BLACKSLUDGE.png|50px]] Black Sludge || Gradually restores HP to Poison-type Pokemon and damages all others. || Cardenal City (Center), Lugano City (Center) - Casino - Sewers (Zone A)
+|-
+| [[File:BLASTOISINITE.png|50px]] Blastoisinite || One of the mysterious Mega Stones. It allows Blastoise to Mega Evolve in battle. || TBD
+|-
+| [[File:BLAZIKENITE.png|50px]] Blazikenite || One of the mysterious Mega Stones. It allows Blaziken to Mega Evolve in battle. || TBD
+|-
+| [[File:BLOOMMAIL.png|50px]] Bloom Mail || Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery. || TBD
+|-
+| [[File:BLUEAPRICORN.png|50px]] Blue Apricorn || A blue Apricorn. It smells a bit like grass. || TBD
+|-
+| [[File:BLUEFLUTE.png|50px]] Blue Flute || A blue crystal flute whose melody awakens sleeping Pokemon. || Forbe City
+|-
+| [[File:BLUEORB.png|50px]] Blue Orb || A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region. || TBD
+|-
+| [[File:BLUESCARF.png|50px]] Blue Scarf || When a Pokémon holds this during a contest, it looks even more beautiful than usual. || TBD
+|-
+| [[File:BLUESHARD.png|50px]] Blue Shard || A small blue shard. It appears to be from some sort of implement made long ago. || TBD
+|-
+| [[File:BLUKBERRY.png|50px]] Bluk Berry || If planted in soft soil, it grows into a Bluk plant. || Nymph City
+|-
+| [[File:BLUNDERPOLICY.png|50px]] Blunder Policy || Raises Speed sharply when a Pokémon misses with a move because of accuracy. || TBD
+|-
+| [[File:BOLDMINT.png|50px]] Bold Mint || When a Pokemon smells it, its Defense will grow quickly, but its Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:BOTTLECAP.png|50px]] Bottle Cap || A lovely silver bottle cap. Certain people are delighted to be given one of these. || TBD
+|-
+| [[File:BRAVEMINT.png|50px]] Brave Mint || When a Pokemon smells it, its Attack will grow quickly, but its Speed will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:BRICKMAIL.png|50px]] Brick Mail || Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery. || TBD
+|-
+| [[File:BRIGHTPOWDER.png|50px]] Bright Powder || It flashes to lower the opponent's accuracy. Must be held by a Pokemon. || Toucan Town, Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:BUBBLEMAIL.png|50px]] Bubble Mail || Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery. || TBD
+|-
+| [[File:BUGGEM.png|50px]] Bug Gem || One-time use gem that boosts Bug-type moves. Must be held by a Pokemon. || Route 12 - Forest of Time, Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:BUGMEMORY.png|50px]] Bug Memory || A memory disc containing Bug-type data. It changes the holder's type if held by a certain Pokémon. || TBD
+|-
+| [[File:BURNDRIVE.png|50px]] Brun Drive || A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move. || TBD
+|-
+| [[File:BURNHEAL.png|50px]] Burn Heal || Spray-type medicine that heals a Pokemon from burns. || Linnet Town - PokeCenter, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:CAKE.png|50px]] Strawberry Cake || A sweet strawberry cake that restores 150 HP. From Forbe City. || Forbe City - Forbe Bakery, Lugano City (Center) - Koffeeteria
+|-
+| [[File:CALCIUM.png|50px]] Calcium || Nutrient-rich drink that increases a Pokemon's Sp. Attack. || Route 9, Cardenal City (West), Cardenal City (South) - Symphony of the Seas, Route 15 - Forest of Memoeries, Lugano City (North) - Shopping Center (P5), Lugano City (East) - Theater - Laboratory (P0), Route 20 - Squawk Trail
+|-
+| [[File:CALMMINT.png|50px]] Calm Mint || When a Pokemon smells it, its Sp. Defense will grow quickly, but its Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:CALZONCILLOS.png|50px]] Underwear || They are a young man's underwear, better not touch them too much... || Blackbird Town - Celestial Tower
+|-
+| [[File:CAMERA.png|50px]] Video Camera || A camera that records Battle Frontier battles. || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:CAMERUPTITE.png|50px]] Cameruptite || One of the mysterious Mega Stones. It allows Camerupt to Mega Evolve in battle. || Hoenn Gym Leader Flannery, Route 11, left side of the bridge, after defeating Gym Leader Liberty (Gym 6)
+|-
+| [[File:CARBOS.png|50px]] Carbos || Nutrient-rich drink that increases a Pokemon's Speed. || Cardenal City (West), Route 12 - Forest of Time, Lugano City (North) - Shopping Center (P5), Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:CAREFULMINT.png|50px]] Careful Mint || When a Pokemon smells it, its Sp. Defense will grow quickly, but its Sp. Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:CARROT.png|50px]] Carrot || Bitter food that the Pokemon ingests when it has little life left, heals a little and greatly increases Accuracy when its life is below half. || Route 21 - Player's Farm
+|-
+| [[File:CARROTSEED.png|50px]] Carrot Seed || It can be planted in fertile soil, it produces carrots. || Route 21 - Farm Store
+|-
+| [[File:CARTADEAMOR.png|50px]] Love Letter || Love letter to be delivered to a certain *Irene* in ? City. || Cardenal City (North) - House
+|-
+| [[File:CASTELIACONE.png|50px]] Casteliacone || Specialty of Castelia City. Heals the status problems of a Pokemon. || Nymph City - Vanilluxe Delux Ice Cream Shop
+|-
+| [[File:CATCHINGCHARM.png|50px]] Catching Charm || A charm said to increase the chance of getting a critical catch. The charm doesn't shake much. || TBD
+|-
+| [[File:CELLBATTERY.png|50px]] Cell Battery || Single-use battery that boosts Attack when hit by an Electric-type move. || Lugano City (West) - Modeling Building, Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:CELULA.png|50px]] Cell Set || They seem to be a collection of glowing cells... Is it still alive? || Route 16 - Magnetic Cave (P0)
+|-
+| [[File:CERVEZA.png|50px]] Beer || A simple beer that restores 120 HP to the user, but may confuse them in battle. || Cardenal City (Center) - Bar: The Rock, Akebia Prison (P-1), Akebia Prison (P-3), Akebia Prison (P-4), Nightingale Town - Stones Bar, Lugano City (Center), Lugano City (West), Lugano City (Center) - Stones Bar, Lugano City (Center) - Poor Neighborhood, Lugano City (Center) - Casino, Lugano City (North), Lugano City (North) - Royal Palace (P2), Lugano City (North) - Royal Palace (P3), Lugano City (North) - Royal Palace (P3) - Office, Lugano City (East)
+|-
+| [[File:CHARCOAL.png|50px]] Charcoal || An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves. || Greenfinch City, Lugano City Hospital (P1), Route 20 - Tanager Cavern
+|-
+| [[File:CHARIZARDITEX.png|50px]] Charizardite X || One of the mysterious Mega Stones. It allows Aggron to Mega Evolve in battle. || TBD
+|-
+| [[File:CHARIZARDITEY.png|50px]] Charizardite Y || One of the mysterious Mega Stones. It allows Aggron to Mega Evolve in battle. || TBD
+|-
+| [[File:CHARTIBERRY.png|50px]] Charti Berry || If held by a Pokemon, it weakens super effective Rock-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:CHERIBERRY.png|50px]] Cheri Berry || Pokemon can hold it or use it to recover from paralysis. || Greenfinch City - House
+|-
+| [[File:CHERISHBALL.png|50px]] Cherish Ball || A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort. || TBD
+|-
+| [[File:CHESTOBERRY.png|50px]] Chesto Berry || Pokemon can hold it or use it to awaken from sleep. || Nymph City
+|-
+| [[File:CHILANBERRY.png|50px]] Chilan Berry || If held by a Pokemon, it weakens a Normal-type move from an enemy. || Lugano City (Center) - Flower Shop
+|-
+| [[File:CHILLDRIVE.png|50px]] Chill Drive || A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move. || TBD
+|-
+| [[File:CHIPPEDPOT.png|50px]] Chipped Pot || A peculiar chipped teapot that can make a certain species of Pokémon evolve. It makes delicious tea. || TBD
+|-
+| [[File:CHOICEBAND.png|50px]] Choice Band || An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one move. || Route 16 - Magnetic Cave (P1) (given by NPC)
+|-
+| [[File:CHOICESCARF.png|50px]] Choice Scarf || An item to be held by a Pokémon. This scarf boosts Speed but allows the use of only one move. || Blackbird Town
+|-
+| [[File:CHOICESPECS.png|50px]] Choice Specs || An item to be held by a Pokémon. These curious glasses boost Sp. Atk but allows the use of only one move. || Lugano City (West) - Hospital (P1) (given by NPC)
+|-
+| [[File:CHOPLEBERRY.png|50px]] Chople Berry || If held by a Pokemon, it weakens super effective Fighting-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:CLAWFOSSIL.png|50px]] Claw Fossil || A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw. || Mining
+|-
+| [[File:CLEANSETAG.png|50px]] Cleanse Tag || An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. || TBD
+|-
+| [[File:CLEVERWING.png|50px]] Clever Wing || An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon. || TBD
+|-
+| [[File:CLOVERSWEET.png|50px]] Clover Sweet || A clover-shaped sweet. When a Milcery holds this, it spins around happily. || TBD
+|-
+| [[File:COBABERRY.png|50px]] Coba Berry || If held by a Pokemon, it weakens super effective Flying-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:COFFEE.png|50px]] Coffee || A coffee with a curious flavor that restores 50HP and doubles your Speed in battle. || Finch Town - Cafeteria, Gate 4, Gate 8, Nymph City - Cafe, Gate 10, Cardenal City (West) - Spinda's Cafe, Cardenal City (Center) - Lickylicky Pizzeria, Bar: The Rock, Cardenal City (West), Cardenal City (North) - Latios Restaurant, Cardenal City (East) - Latias Restaurant, Gate 12, Forbe City - Forbe Bakery, Nightingale Town - Stones Bar, Gate 19, Lugano City (West) - HM Destroyer Building, Lugano City (Center) - Koffeeteria, Lugano City (Center) - Stones Bar, Lugano City (North) - Classic Pokemon Building, Lugano City (South) - Restaurant of Love, Gate 22
+|-
+| [[File:COINCASE.png|50px]] Coin Case || A wallet to store money and Casino tokens. || Lugano City (North)
+|-
+| [[File:COLBURBERRY.png|50px]] Colbur Berry || If held by a Pokemon, it weakens super effective Dark-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:COMETSHARD.png|50px]] Comet Shard || A shard which fell to the ground when a comet approached. A maniac will buy it for a high price. || TBD
+|-
+| [[File:CORNNBERRY.png|50px]] Cornn Berry || In the Sinnoh region, they like to make sweets known as Poffins with this Berry. || TBD
+|-
+| [[File:COVERFOSSIL.png|50px]] Cover Fossil || A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back. || TBD
+|-
+| [[File:CRACKEDPOT.png|50px]] Cracked Pot || A peculiar cracked teapot that can make a certain species of Pokémon evolve. It makes delicious tea. || TBD
+|-
+| [[File:CUSTAPBERRY.png|50px]] Custap Berry || If held by a Pokémon, it gets to move first just once in a pinch. || TBD
+|-
+| [[File:DAMPMULCH.png|50px]] Damp Mulch || A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price. || TBD
+|-
+| [[File:DAMPROCK.png|50px]] Damp Rock || A Pokémon held item that extends the duration of the move Rain Dance used by the holder. || Route 17
+|-
+| [[File:DARKGEM.png|50px]] Dark Gem || One-time use gem that boosts Dark-type moves. Must be held by a Pokemon. || Lugano City (West) (given by NPC), Lugano City (North) - Shopping Center (P4), Route 20 - Squawk Trail
+|-
+| [[File:DARKMEMORY.png|50px]] Dark Memory || A memory disc containing Dark-type data. It changes the holder's type if held by a certain Pokémon. || TBD
+|-
+| [[File:DAWNSTONE.png|50px]] Dawn Stone || A peculiar stone that evolves some Pokemon. It shines like a star. || Cardenal City (Center) - Jewelry Store, Route 18, Lugano City (North) - Shopping Center (P3), Route 21
+|-
+| [[File:DEEPSEASCALE.png|50px]] Deep Sea Scale || An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat. || TBD
+|-
+| [[File:DEEPSEATOOTH.png|50px]] Deep Sea Tooth || An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat. || TBD
+|-
+| [[File:DESTINYKNOT.png|50px]] Destiny Knot || A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, so does the foe. || TBD
+|-
+| [[File:DEVONSCOPE.png|50px]] Devon Scope || A device by Devon that signals any unseeable Pokémon. || TBD
+|-
+| [[File:DIANCITE.png|50px]] Diancite || One of the mysterious Mega Stones. It allows Aggron to Mega Evolve in battle. || TBD
+|-
+| [[File:DIARIO.png|50px]] Diary || A diary that lest you know what to do at all times. || Sparrow Town - Player's Room (given by Mom)
+|-
+| [[File:DIREHIT.png|50px]] Dire Hit || An item that raises the critical-hit ratio greatly. It wears off if the Pokémon is withdrawn. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:DIREHIT2.png|50px]] Dire Hit 2 || It sharply raises the critical-hit ratio. It wears off if the Pokémon is withdrawn. || TBD
+|-
+| [[File:DIREHIT3.png|50px]] Dire Hit 3 || It greatly raises the critical-hit ratio. It wears off if the Pokémon is withdrawn. || TBD
+|-
+| [[File:DIVEBALL.png|50px]] Dive Ball || A somewhat different Poke Ball. Works especially well on Pokemon living in the sea. || Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:DNASPLICERS.png|50px]] DNA Splicers || A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning. || TBD
+|-
+| [[File:DOMEFOSSIL.png|50px]] Dome Fossil || A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell. || Mining
+|-
+| [[File:DOUSEDRIVE.png|50px]] Douse Drive || A cassette to be held by Genesect. It changes Techno Blast to a Water-type move. || TBD
+|-
+| [[File:DOWSINGMACHINE.png|50px]] Dowsing Machine || Precision device that reacts with light and sound to unseen objects and indicates their position. || Route 7
+|-
+| [[File:DRACOPLATE.png|50px]] Draco Plate || An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves. || TBD
+|-
+| [[File:DRAGONFANG.png|50px]] Dragon Fang || An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves. || Nymph City
+|-
+| [[File:DRAGONGEM.png|50px]] Dragon Gem || One-time use gem that boosts Dragon-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:DRAGONMEMORY.png|50px]] Dragon Memory || A memory disc containing Dragon-type data. It changes the holder's type if held by a certain Pokémon. || TBD
+|-
+| [[File:DRAGONSCALE.png|50px]] Dragon Scale || A thick and tough scale. Dragon-type Pokémon may be holding this item when caught. || TBD
+|-
+| [[File:DREADPLATE.png|50px]] Dread Plate || An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves. || Lugano City (South) (Sewers)
+|-
+| [[File:DREAMBALL.png|50px]] Dream Ball || A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep. || TBD
+|-
+| [[File:DUBIOUSDISC.png|50px]] Dubious Disc || A transparent device overflowing with dubious data.  Its producer is unknown. || Lugano City (North) - Shopping Center (P3), Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:DULCEDENATA.png|50px]] Whipped Dream || A soft and sweet treat made of fluffy, puffy and whirled cream. It's loved by a certain Pokémon. || TBD
+|-
+| [[File:DURINBERRY.png|50px]] Durin Berry || In the Sinnoh region, they like to make sweets known as Poffins with this Berry. || TBD
+|-
+| [[File:DUSKBALL.png|50px]] Dusk Ball || A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves. || Finch Cave, Route 16 - Abandoned Orphanage (Shuppet Maze), Route 16 - Magnetic Cave (P1), Route 16 - Magnetic Cave (P2), Route 16 - Magnetic Cave (P-1), Lugano City (North) - Shopping Center (P2), Lugano City (Center) - Casino - Sewers (Zone A), Route 20 - Squawk Trail
+|-
+| [[File:DUSKSTONE.png|50px]] Dusk Stone || A peculiar stone that evolves some Pokemon. It is dark like the night. || Cardenal City (Center) - Jewelry Store, Route 15 - Forest of Memoeries, Blackbird Town - Celestial Tower (P0), Route 16 - Abandoned Orphanage (Shuppet Maze), Route 19, Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:EARTHPLATE.png|50px]] Earth Plate || An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ground-type moves. || Cardenal City (South)
+|-
+| [[File:EGGHATCHER.png|50px]] Incubator || An incubator that can hold up to 6 eggs. || Route 5
+|-
+| [[File:EJECTBUTTON.png|50px]] Eject Button || If the holder is hit by an attack, it will switch out and be replaced by another Pokemon from the team. || Lugano City (South), Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:EJECTPACK.png|50px]] Eject Pack || An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle. || TBD
+|-
+| [[File:ELECTIRIZER.png|50px]] Electirizer || A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. || Route 16 - Magnetic Cave (P0), Lugano City (North) - Shopping Center (P3), Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:ELECTRICGEM.png|50px]] Electric Gem || One-time use gem that boosts Electric-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:ELECTRICMEMORY.png|50px]] Electric Memory || A memory disc containing Electric-type data. It changes the holder's type if held by a certain Pokémon. || TBD
+|-
+| [[File:ELECTRICSEED.png|50px]] Electric Seed || An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once. || TBD
+|-
+| [[File:ELIXIR.png|50px]] Elixir || Restores 10 PP to all moves learned by a Pokemon. || Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:ENERGYPOWDER.png|50px]] Energy Powder || A very bitter medicinal powder. It can be used to restore 60 HP to a single Pokémon. || TBD
+|-
+| [[File:ENERGYROOT.png|50px]] Energy Root || An extremely bitter medicinal root. It can be used to restore 120 HP of a single Pokémon. || Tue-Tue Hillside
+|-
+| [[File:ENIGMABERRY.png|50px]] Enigma Berry || Restores the HP of a Pokemon if held when hit by a super effective move. || Lugano City (Center) - Flower Shop
+|-
+| [[File:ESCAPEROPE.png|50px]] Escape Rope || A long and sturdy rope used to escape from caves and enclosed areas in general. || Linnet Town - PokeCenter (1 or more badges), Finch Town - PokeCenter (1 or more badges), Calentra City - PokeCenter (1 or more badges), Greenfinch City - PokeCenter (1 or more badges), Nymph City - PokeCenter (1 or more badges), Cardenal City (West) - PokeCenter (1 or more badges), Cardenal City (East) - PokeCenter (1 or more badges), Toucan Town - PokeCenter (1 or more badges), Forbe City - PokeCenter (1 or more badges), Nightingale Town - PokeCenter (1 or more badges), Blackbird Town - PokeCenter (1 or more badges), Lugano City (West) - PokeCenter (1 or more badges), Lugano City (East) - PokeCenter (1 or more badges)
+|-
+| [[File:ESPAGUETIS.png|50px]] Spaghetti || Spaghetti with a sweet tomato that restores 200 HP and raises the user's Attack and Sp. Attack, but lowers speed. || Lugano City (South) - Restaurant of Love
+|-
+| [[File:ESPATHRA.png|50px]] Farm Espathra || Lives in a corral, generates Espathra egg every day. || Route 21 - Farm Store
+|-
+| [[File:ETHER.png|50px]] Ether || Restores a maximum of 10 PP to a move you select for a Pokemon. || Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:EVERSTONE.png|50px]] Everstone || The Pokemon holding this magical stone will not evolve. || Cardenal City (South) - House, Route 20 - Squawk Cave
+|-
+| [[File:EVIOLITE.png|50px]] Eviolite || A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def if the holder can still evolve. || Lugano City (East) - Theater - Laboratory (P-2)
+|-
+| [[File:EVMODIFIER.png|50px]] EVs Modifier || Allows you to modify your Pokemon's earned EVs using money. || Route 4 (battle with Darek)
+|-
+| [[File:EXPCANDYL.png|50px]] Exp. Candy L || A candy packed with energy. When consumed, it will grant a Pokémon a large amount of Exp. Points. || TBD
+|-
+| [[File:EXPCANDYM.png|50px]] Exp. Candy M || A candy packed with energy. When consumed, it will grant a Pokémon a moderate amount of Exp. Points. || TBD
+|-
+| [[File:EXPCANDYS.png|50px]] Exp. Candy S || A candy packed with energy. When consumed, it will grant a Pokémon a small amount of Exp. Points. || TBD
+|-
+| [[File:EXPCANDYXL.png|50px]] Exp. Candy XL || A candy packed with energy. When consumed, it will grant a Pokémon a very large amount of Exp. Points. || TBD
+|-
+| [[File:EXPCANDYXS.png|50px]] Exp. Candy XS || A candy packed with energy. When consumed, it will grant a Pokémon a very small amount of Exp. Points. || TBD
+|-
+| [[File:EXPCHARM.png|50px]] Exp. Charm || A charm that increases the Exp. Points that Pokemon can get. It contains a machine-like object. || Lugano City (Center) - Unbreakable Ties S.A - Given by SSamurai for registering 500 (or more) Pokemon in the Pokedex
+|-
+| [[File:EXPERTBELT.png|50px]] Expert Belt || Slightly boosts super effective moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:EXPLORATIONKIT.png|50px]] Climbing Kit || It is used to climb and descend mountains, many mountaineers use it. || TBD
+|-
+| [[File:EXPSHARE.png|50px]] Exp. Share || An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling. || TBD
+|-
+| [[File:FAIRYGEM.png|50px]] Fairy Gem || One-time use gem that boosts Fairy-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:FAIRYMEMORY.png|50px]] FAIRYMEMORY || TBD || TBD
+|-
+| [[File:FASTBALL.png|50px]] Fast Ball || A somewhat different Poke Ball, especially designed to capture high-speed Pokemon. || Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:FIGHTINGGEM.png|50px]] Fighting Gem || One-time use gem that boosts Fighting-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:FIGHTINGMEMORY.png|50px]] FIGHTINGMEMORY || TBD || TBD
+|-
+| [[File:FIGYBERRY.png|50px]] Figy Berry || Restores the HP of the Pokemon using it in a pinch, but may cause confusion. || Nymph City
+|-
+| [[File:FIREGEM.png|50px]] Fire Gem || One-time use gem that boosts Fire-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:FIREMEMORY.png|50px]] FIREMEMORY || TBD || TBD
+|-
+| [[File:FIRESTONE.png|50px]] Fire Stone || Curious stone that evolves certain species of Pokemon. It is yellow with an orange mark. || Route 9, Cardenal City (Center) - Jewelry Store, Cardenal City (North) - Garden of Dreams, Route 15 - Forest of Memoeries, Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:FISTPLATE.png|50px]] FISTPLATE || TBD || TBD
+|-
+| [[File:FLAMEMAIL.png|50px]] FLAMEMAIL || TBD || TBD
+|-
+| [[File:FLAMEORB.png|50px]] Flame Orb || Strange orb that inflicts burns on the holder in battle. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:FLAMEPLATE.png|50px]] Flame Plate || An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fire-type moves. || Route 20 - Tanager Cavern
+|-
+| [[File:FLOATSTONE.png|50px]] FLOATSTONE || TBD || TBD
+|-
+| [[File:FLOWERSWEET.png|50px]] FLOWERSWEET || TBD || TBD
+|-
+| [[File:FLUFFYTAIL.png|50px]] FLUFFYTAIL || TBD || TBD
+|-
+| [[File:FLYINGGEM.png|50px]] Flying Gem || One-time use gem that boosts Flying-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:FLYINGMEMORY.png|50px]] FLYINGMEMORY || TBD || TBD
+|-
+| [[File:FOCUSBAND.png|50px]] Focus Band || The Pokemon holding it can withstand a potentially critical hit and be left with 1 HP. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:FOCUSSASH.png|50px]] Focus Sash || If the Pokemon holding it has full HP, it will withstand a potential KO hit with 1 HP. || Cardenal City (Center) - House, Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:FOSSILIZEDBIRD.png|50px]] FOSSILIZEDBIRD || TBD || TBD
+|-
+| [[File:FOSSILIZEDDINO.png|50px]] FOSSILIZEDDINO || TBD || TBD
+|-
+| [[File:FOSSILIZEDDRAKE.png|50px]] FOSSILIZEDDRAKE || TBD || TBD
+|-
+| [[File:FOSSILIZEDFISH.png|50px]] FOSSILIZEDFISH || TBD || TBD
+|-
+| [[File:FRESHWATER.png|50px]] Fresh Water || High mineral content water that restores 40 HP of a Pokemon. || Sparrow Town - Player's Room, Gate 1, Finch Town, Finch Town - Cafeteria, Finch Town - PokeCenter, Gate 2, Route 4, Route 4 - House, Gate 3, Calentra City, Calentra City - House, Calentra City - Gym, Gate 4, Gate 5, Greenfinch City - Gym, Greenfinch City - House, Greenfinch City - PokeCenter, Gate 6, Gate 7, Gate 8, Gate 9, Nymph City, Nymph City - Vanilluxe Delux Ice Cream Shop, Nymph City - Cafe, Gate 10, Route 9, Gate 11, Cardenal City (West) - House, Cardenal City (Center), Cardenal City (Center) - Lickylicky Pizzeria, Cardenal City (Center) - Hotel MiraMar (P1) Corridor, Cardenal City (Center) - Hotel MiraMar (P2) Corridor, Cardenal City (Center) - Hotel MiraMar (P2) Room 201, Cardenal City (South) - Museum, Cardenal City (South) - House, Cardenal City (East) - House, Cardenal City (East) - Aquarium, Cardenal City (East) - Latias Restaurant, Cardenal City (North), Cardenal City (North) - House, Cardenal City (North) - Latios Restaurant, Cardenal City (South) - Symphony of the Seas, Toucan Town - House, Gate 12, Gate 13, Forbe City - House, Forbe City - Forbe Bakery, Gate 14, Gate 15, Akebia Prison (P-2), Gate 16, Blackbird Town - Gym , Bullfinch Village, Bullfinch Village - House, Gate 17, Gate 18, Gate 19, Lugano City (West), Lugano City (West) - Hospital (PB), Lugano City (West) - Hospital (P2), Lugano City (West) - Hospital (Rooftop), Lugano City (West) - Ice Cream Shop, Lugano City (West) - Fourth Wall Building, Lugano City (West) - Modeling Building, Lugano City (Center), Lugano City (Center) - Koffeeteria, Lugano City (Center) - Casino (Lair P-2), Lugano City (North), Lugano City (North) - Shopping Center (PB), Lugano City (North) - Shopping Center (P1), Lugano City (North) - Shopping Center (P2), Lugano City (North) - Shopping Center (P3), Lugano City (North) - Shopping Center (P4), Lugano City (North) - Shopping Center (P5), Lugano City (North) - Shopping Center (P6), Lugano City (North) - Shopping Center (P7), Lugano City (North) - Shopping Center (Rooftop), Lugano City (East) - Theater (P1), Gate 21, Lugano City (South), Lugano City (South) - Restaurant of Love, Gate 20, Gate 22
+|-
+| [[File:FRIENDBALL.png|50px]] FRIENDBALL || TBD || TBD
+|-
+| [[File:FRUIT.png|50px]] Star Fruit || Very unique food that activates when you have little life left and heals you completely, including all status conditions. || Route 21 - Player's Farm
+|-
+| [[File:FRUITSEED.png|50px]] Star Fruit Seed || It can be planted in fertile soil, it produces the miraculous star fruit. || Route 21 - Farm Store
+|-
+| [[File:FULLHEAL.png|50px]] Full Heal || Spray-type medicine that heals all status problems of a Pokemon. || Linnet Town - PokeCenter (4 or more badges), Finch Town - PokeCenter (4 or more badges), Calentra City - PokeCenter (4 or more badges), Greenfinch City, Greenfinch City - PokeCenter, Route 6 (North), Relic Cave (P-1), Nymph City, Nymph City - PokeCenter (4 or more badges), Route 9, Cardenal City (Center), Cardenal City (West) - PokeCenter (4 or more badges), Cardenal City (South), Cardenal City (East) - PokeCenter (4 or more badges), Cardenal City (North), Toucan Town - PokeCenter (4 or more badges), Forbe City - PokeCenter (4 or more badges), Akebia Prison (P-4), Nightingale Town - PokeCenter (4 or more badges), Blackbird Town - PokeCenter (4 or more badges), Bullfinch Jungle, Tue-Tue Hillside, Lugano City (West) - PokeCenter (4 or more badges), Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter (4 or more badges)
+|-
+| [[File:FULLINCENSE.png|50px]] Full Incense || Exotic aromatic substance that makes the holder move slower. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:FULLRESTORE.png|50px]] Full Restore || Medicine that restores all HP and cures all status problems of a Pokemon. || Linnet Town - PokeCenter (8 badges), Finch Town - PokeCenter (8 badges), Calentra City - PokeCenter (8 badges), Greenfinch City - PokeCenter (8 badges), Nymph City - PokeCenter (8 badges), Cardenal City (West) - PokeCenter (8 badges), Cardenal City (East) - PokeCenter (8 badges), Toucan Town - PokeCenter (8 badges), Route 11, Forbe City - PokeCenter (8 badges), Akebia Prison (P-5), Nightingale Town - PokeCenter (8 badges), Blackbird Town - PokeCenter (8 badges), Route 16, Route 16 - Magnetic Cave (P0), Route 16 - Magnetic Cave (P-1), Lugano City (West) - Hospital (P1) (given by NPC), Lugano City (West) - PokeCenter (8 badges), Lugano City (Center), Lugano City (North) - Shopping Center (P1), Lugano City (North) - Royal Palace Garden, Lugano City (North) - Royal Palace (P1), Lugano City (North) - Royal Palace (P2), Lugano City (North) - Royal Palace (P3), Lugano City (East) - PokeCenter (8 badges), Lugano City (East) - Theater (P1), Lugano City (East) - Theater - Laboratory (P-5), Lugano City (Center) - Casino - Sewers (Zone A), Lugano City (Center) - Casino - Sewers (Final Room), Floral Pass, Floral Hillside - Talegalo Cave (Extended), Route 20, Route 20 - Tanager Cavern
+|-
+| [[File:GACHACOIN.png|50px]] GACHACOIN || TBD || TBD
+|-
+| [[File:GALARICACUFF.png|50px]] Galarica Cuff || A cuff made from woven-together Galarica Twigs. Giving it to a Galarian Slowpoke would make it very happy. || Lugano City (North) - Shopping Center (P3), Retreat Park
+|-
+| [[File:GALARICAWREATH.png|50px]] Galarica Wreath || A wreath made from woven-together Galarica Twigs. A Galarian Slowpoke wearing this would be very happy. || Lugano City (North) - Shopping Center (P3), Floral Hillside
+|-
+| [[File:GALERIA.png|50px]] Gallery Ticket || This ticket grants free entry to the Art Gallery, quite the art, right? || Lugano City (West) - Art Gallery (P1)
+|-
+| [[File:GALLADITE.png|50px]] GALLADITE || TBD || TBD
+|-
+| [[File:GANLONBERRY.png|50px]] Ganlon Berry || If held by a Pokemon, it raises Defense in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:GARCHOMPITE.png|50px]] GARCHOMPITE || TBD || TBD
+|-
+| [[File:GARDEVOIRITE.png|50px]] GARDEVOIRITE || TBD || TBD
+|-
+| [[File:GARLIC.png|50px]] Garlic || Bitter food that the Pokemon ingests when it has little life left, heals a little and confuses the enemy. || Route 21 - Player's Farm
+|-
+| [[File:GARLICSEED.png|50px]] Garlic Seed || It can be planted on fertile soil, produces garlic. || Route 21 - Farm Store
+|-
+| [[File:GENGARITE.png|50px]] GENGARITE || TBD || TBD
+|-
+| [[File:GENIUSWING.png|50px]] GENIUSWING || TBD || TBD
+|-
+| [[File:GENTLEMINT.png|50px]] Gentle Mint || When a Pokemon smells it, its Sp. Defense will grow quickly, but its Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:GHOSTGEM.png|50px]] Ghost Gem || One-time use gem that boosts Ghost-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:GHOSTMEMORY.png|50px]] GHOSTMEMORY || TBD || TBD
+|-
+| [[File:GLALITITE.png|50px]] GLALITITE || TBD || TBD
+|-
+| [[File:GOGOAT.png|50px]] Farm Skiddo || She lives in a corral, you can milk her every day if you have a bucket. || Route 21 - Farm Store
+|-
+| [[File:GOLD.png|50px]] Strange Coin || A curious coin that can evolve Gimmighoul from level 35. || Route 2, Route 4, Route 6 (South), Route 8, Route 9, Route 11, Forest of Time, Route 12, Route 13, Route 14, Route 15 - Forest of Memories, Route 15, Route 16, Route 17, Route 19, Lost Forest, Retreat Park, Royal Palace Garden, Route 20, Route 20 - Squawk Trail, Route 21
+|-
+| [[File:GOLDBOTTLECAP.png|50px]] GOLDBOTTLECAP || TBD || TBD
+|-
+| [[File:GOLDENMASKON.png|50px]] Golden Mask || A mask that increases the Pokemon's Attack and Sp. Attack at the start of a battle, preventing the use of Mega Evolution. || Route 20 - Squawk Peak
+|-
+| [[File:GOMIAMARILLO.png|50px]] Yellow Gummi || A treat that increases 10 EV points of Sp. Attack when a Pokemon eats it. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:GOMIAZUL.png|50px]] Blue Gummi || A treat that increases 10 EV points of Speed when a Pokemon eats it. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:GOMIMORADO.png|50px]] Purple Gummi || A treat that increases 10 EV points of HP when a Pokemon eats it. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:GOMIPLATEADO.png|50px]] Silver Gummi || A treat that increases 10 EV points of Defense when a Pokemon eats it. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:GOMIROJO.png|50px]] Red Gummi || A treat that increases 10 EV points of Attack when a Pokemon eats it. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:GOMIVERDE.png|50px]] Green Gummi || A treat that increases 10 EV points of Sp. Defense when a Pokemon eats it. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:GOODROD.png|50px]] Good Rod || A brand new, high-quality fishing rod. Catches wild Pokemon in all types of water. || Cardenal City (East) - Aquarium
+|-
+| [[File:GOOEYMULCH.png|50px]] GOOEYMULCH || TBD || TBD
+|-
+| [[File:GRACIDEA.png|50px]] Gracidea || A flower that is usually given in bouquets to express gratitute on special occasions, such as birthdays. || Floral Pass
+|-
+| [[File:GRASSGEM.png|50px]] Grass Gem || One-time use gem that boosts Grass-type moves. Must be held by a Pokemon. || Route 2, Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:GRASSMAIL.png|50px]] GRASSMAIL || TBD || TBD
+|-
+| [[File:GRASSMEMORY.png|50px]] GRASSMEMORY || TBD || TBD
+|-
+| [[File:GRASSYSEED.png|50px]] GRASSYSEED || TBD || TBD
+|-
+| [[File:GREATBALL.png|50px]] Great Ball || High-performance Poke Ball. It has a higher success rate than a Poke Ball. || Linnet Town - PokeCenter, Route 2 (given by Darek), Finch Cave, Calentra City - PokeCenter, Greenfinch City - PokeCenter, Route 6 (South), Relic Cave (P-1), Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P2), Lugano City (East) - PokeCenter
+|-
+| [[File:GREENAPRICORN.png|50px]] GREENAPRICORN || TBD || TBD
+|-
+| [[File:GREENSCARF.png|50px]] GREENSCARF || TBD || TBD
+|-
+| [[File:GREENSHARD.png|50px]] GREENSHARD || TBD || TBD
+|-
+| [[File:GREPABERRY.png|50px]] Grepa Berry || If used on a Pokemon, it gains friendship, but reduces its Sp. Defense. || Nymph City
+|-
+| [[File:GRIMMSNARLITA.png|50px]] GRIMMSNARLITA || TBD || TBD
+|-
+| [[File:GRIPCLAW.png|50px]] Grip Claw || A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap. || Retreat Park - Talegalo Cave
+|-
+| [[File:GRISEOUSORB.png|50px]] GRISEOUSORB || TBD || TBD
+|-
+| [[File:GROUNDGEM.png|50px]] Ground Gem || One-time use gem that boosts Ground-type moves. Must be held by a Pokemon. || Nymph City, Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:GROUNDMEMORY.png|50px]] GROUNDMEMORY || TBD || TBD
+|-
+| [[File:GROWTHDELUXE.png|50px]] Deluxe Fertilizer || Fertilizer for growing berries and vegetables, which greatly accelerates the growth rate. || Route 21, Route 21 - Farm Store
+|-
+| [[File:GROWTHMULCH.png|50px]] Growth Mulch || A fertilizer to be spread on soft soil in regions where berries are grown. A maniac will buy it for a high price. || Route 21 - Farm Store
+|-
+| [[File:GUARDSPEC.png|50px]] Guard Spec. || Prevents the Pokemon team's stats from dropping for five turns. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:GYARADOSITE.png|50px]] GYARADOSITE || TBD || TBD
+|-
+| [[File:HABANBERRY.png|50px]] Haban Berry || If held by a Pokemon, it weakens super effective Dragon-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:HACHA.png|50px]] Axe || It's a rather old axe. You can use it to get wood. || Greenfinch Forest
+|-
+| [[File:HACHAFINAL.png|50px]] Ancestral Axe++ || It is the ancestral axe, but improved. Now you can harvest up to 10 pieces of firewood per tree! || Route 21 - Player's Farm (given by Garo)
+|-
+| [[File:HACHANCESTRAL.png|50px]] Ancient Axe || TBD || Greenfinch City
+|-
+| [[File:HARDSTONE.png|50px]] Hard Stone || An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves. || Route 9, Route 16 - Magnetic Cave (P2), Route 17
+|-
+| [[File:HASTYMINT.png|50px]] Hasty Mint || When a Pokemon smells it, its Speed will grow quickly, but its Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:HEALBALL.png|50px]] Heal Ball || A healing Poke Ball that restores the HP of a captured Pokemon and heals its status conditions. || Cardenal City (West) - House, Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:HEALPOWDER.png|50px]] Heal Powder || A very bitter medicine powder. It heals all the status problems of a single Pokémon. || Route 21
+|-
+| [[File:HEALTHWING.png|50px]] HEALTHWING || TBD || TBD
+|-
+| [[File:HEARTMAIL.png|50px]] HEARTMAIL || TBD || TBD
+|-
+| [[File:HEARTSCALE.png|50px]] HEARTSCALE || TBD || TBD
+|-
+| [[File:HEATROCK.png|50px]] Heat Rock || A Pokémon held item that extends the duration of the move Sunny Day used by the holder. || Route 20 - Tanager Cavern
+|-
+| [[File:HEAVYBALL.png|50px]] Heavy Ball || A Poké Ball for catching very heavy Pokémon. || Lugano City (West) - HM Destroyer Building (given by NPC), Lugano City (North) - Shopping Center (P2), Retreat Park - Talegalo Cave
+|-
+| [[File:HEAVYDUTYBOOTS.png|50px]] HEAVYDUTYBOOTS || TBD || TBD
+|-
+| [[File:helado.png|50px]] helado || TBD || TBD
+|-
+| [[File:HELADODECHOCOLATE.png|50px]] Chocolate Ice Cream || Item that increases Defense in battle. || Nymph City - Vanilluxe Delux Ice Cream Shop, Cardenal City (Center) - Vanilluxe Ice Cream Parlor, Lugano City (West) - Ice Cream Shop
+|-
+| [[File:HELADODEFRESA.png|50px]] Strawberry Ice Cream || Item that increases Sp. Attack in battle || Nymph City, Nymph City - Vanilluxe Delux Ice Cream Shop, Cardenal City (Center) - Vanilluxe Ice Cream Parlor, Lugano City (West) - Ice Cream Shop
+|-
+| [[File:HELADODELIMON.png|50px]] Lemon Ice Cream || Item that increases Speed in battle. || Nymph City - Vanilluxe Delux Ice Cream Shop, Cardenal City (Center) - Vanilluxe Ice Cream Parlor, Lugano City (West) - Ice Cream Shop
+|-
+| [[File:HELADODEMENTA.png|50px]] Mint Ice Cream || Item that increases Sp. Defense in battle. || Nymph City, Nymph City - Vanilluxe Delux Ice Cream Shop, Cardenal City (Center) - Vanilluxe Ice Cream Parlor, Lugano City (West) - Ice Cream Shop
+|-
+| [[File:HELADODEVAINILLA.png|50px]] Vanilla Ice Cream || Item that increases Attack in battle. || Nymph City - Vanilluxe Delux Ice Cream Shop, Cardenal City (Center) - Vanilluxe Ice Cream Parlor, Lugano City (West) - Ice Cream Shop
+|-
+| [[File:HELIXFOSSIL.png|50px]] HELIXFOSSIL || TBD || TBD
+|-
+| [[File:HENO.png|50px]] Hay || Hay is used to feed your farm Pokemon, if they don't have any hay, they will not produce food. || Route 21 - Farm Store
+|-
+| [[File:HERACRONITE.png|50px]] HERACRONITE || TBD || TBD
+|-
+| [[File:HONDEWBERRY.png|50px]] Hondew Berry || If used on a Pokemon, it gains friendship, but reduces its Sp. Attack. || Nymph City
+|-
+| [[File:HONEY.png|50px]] Honey || A sweet honey with a lush aroma that attracts wild Pokémon when used in tall grass, in caves, or elsewhere. || Route 21, Route 21 - Player's Farm
+|-
+| [[File:HOUNDOOMINITE.png|50px]] HOUNDOOMINITE || TBD || TBD
+|-
+| [[File:HPUP.png|50px]] HP Up || Nutrient-rich drink that increases a Pokemon's HP. || Cardenal City (West), Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:HUEVO.png|50px]] Torchic Egg || Food that revives a fainted Pokemon and restores half of its HP. || Route 21 - Player's Farm
+|-
+| [[File:HUEVO2.png|50px]] Espathra Egg || Food that revives a fainted Pokemon and restores 3/4 of its HP. || Route 21 - Player's Farm
+|-
+| [[File:HUEVO3.png|50px]] Golden Egg || Food that revives a fainted Pokemon and restores all its HP. || Route 21 - Player's Farm
+|-
+| [[File:HYPERPOTION.png|50px]] Hyper Potion || Spray-type medicine that heals wounds and restores 200 HP of a Pokemon. || Linnet Town - PokeCenter (2 or more badges), Finch Town - PokeCenter (2 or more badges), Calentra City - PokeCenter (2 or more badges), Greenfinch City - PokeCenter (2 or more badges), Nymph City - PokeCenter (2 or more badges), Route 9, Cardenal City (Center) - Hotel MiraMar (P1) Room 102, Cardenal City (West) - PokeCenter (2 or more badges), Cardenal City (East) - PokeCenter (2 or more badges), Toucan Town - PokeCenter (2 or more badges), Route 11, Forbe City - PokeCenter (2 or more badges), Route 13, Route 13 - Mystic Cave, Akebia Prison (P-4), Akebia Prison (P-5), Nightingale Town - PokeCenter (2 or more badges), Route 15, Route 15 - Forest of Memoeries, Blackbird Town - PokeCenter (2 or more badges), Bullfinch Jungle, Tue-Tue Jungle, Route 16, Route 16 - Magnetic Cave (P1), Lugano City (West) - PokeCenter (2 or more badges), Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter (2 or more badges), Floral Pass
+|-
+| [[File:IAPAPABERRY.png|50px]] Iapapa Berry || Restores the HP of the Pokemon using it in a pinch, but may cause confusion. || Nymph City
+|-
+| [[File:ICEGEM.png|50px]] Ice Gem || One-time use gem that boosts Ice-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:ICEHEAL.png|50px]] Ice Heal || Spray-type medicine that defrosts a Pokemon. || Linnet Town - PokeCenter, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North), - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:ICEMEMORY.png|50px]] ICEMEMORY || TBD || TBD
+|-
+| [[File:ICESTONE.png|50px]] Ice Stone || A curois stone that evolves certain species of Pokemon. It has a snowy pattern. || Cardenal City (Center) - Jewelry Store, Cardenal City (North) - Garden of Dreams, Route 16 - Abandoned Orphanage (Warehouse), Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:ICICLEPLATE.png|50px]] ICICLEPLATE || TBD || TBD
+|-
+| [[File:ICYROCK.png|50px]] ICYROCK || TBD || TBD
+|-
+| [[File:IMPISHMINT.png|50px]] Impish Mint || When a Pokemon smells it, its Defense will grow quickly, but its Sp. Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:INFINITEROPE.png|50px]] INFINITEROPE || TBD || TBD
+|-
+| [[File:INSECTPLATE.png|50px]] INSECTPLATE || TBD || TBD
+|-
+| [[File:IRON.png|50px]] Iron || Nutrient-rich drink that increases a Pokemon's Defense. || Cardenal City (West), Lugano City (West) - Hospital (PB), Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:IRONBALL.png|50px]] Iron Ball || A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves. || Route 16 - Magnetic Cave (P0)
+|-
+| [[File:IRONPLATE.png|50px]] Iron Plate || An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves. || Lugano City (North) - Royal Palace (P3)
+|-
+| [[File:ITEMDROP.png|50px]] ITEMDROP || TBD || TBD
+|-
+| [[File:ITEMFINDER.png|50px]] ITEMFINDER || TBD || TBD
+|-
+| [[File:ITEMURGE.png|50px]] ITEMURGE || TBD || TBD
+|-
+| [[File:JABOCABERRY.png|50px]] JABOCABERRY || TBD || TBD
+|-
+| [[File:JAWFOSSIL.png|50px]] JAWFOSSIL || TBD || TBD
+|-
+| [[File:JOLLYMINT.png|50px]] Jolly Mint || When a Pokemon smells it, its Speed will grow quickly, but its Sp. Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:KANGASKHANITE.png|50px]] KANGASKHANITE || TBD || TBD
+|-
+| [[File:KASIBBERRY.png|50px]] Kasib Berry || If held by a Pokemon, it weakens super effective Ghost-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:KEBIABERRY.png|50px]] Kebia Berry || If held by a Pokemon, it weakens super effective Poison-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:KEEBERRY.png|50px]] KEEBERRY || TBD || TBD
+|-
+| [[File:KELPSYBERRY.png|50px]] Kelpsy Berry || If used on a Pokemon, it gains friendship, but reduces its Attack. || Nymph City
+|-
+| [[File:KINGSROCK.png|50px]] King's Rock || Can make the opponent flinch when the holder hits them. || Lugano City (North) - Shopping Center (P6), Lugano City (North) - Royal Palace (P3)
+|-
+| [[File:LAGGINGTAIL.png|50px]] Lagging Tail || An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual. || Route 16 - Magnetic Cave (P0)
+|-
+| [[File:LANA.png|50px]] Mareep Wool || Nice wool from Mareep, can be sold for a good price. || Route 21 - Player's Farm
+|-
+| [[File:LANSATBERRY.png|50px]] Lansat Berry || If held by a Pokemon, it increases the chance of a critical hit in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:LAPRASITA.png|50px]] LAPRASITA || TBD || TBD
+|-
+| [[File:LATIAGALLETA.png|50px]] LatiaCookie || Energy-filled cookie that heals 1/3 total HP of the user and greatly increases Sp. Defense. || Cardenal City (East) - Latias Restaurant
+|-
+| [[File:LATIASITE.png|50px]] LATIASITE || TBD || TBD
+|-
+| [[File:LATIOBATIDO.png|50px]] LatioShake || Energy-filled shake that heals 1/3 total HP of the user and greatly increases Sp. Attack. || Cardenal City (North) - Latios Restaurant
+|-
+| [[File:LATIOSITE.png|50px]] LATIOSITE || TBD || TBD
+|-
+| [[File:LAVACOOKIE.png|50px]] Lava Cookie || Traditional sweet from Lavaridge Town that heals all status problems of a || Gate 4, Lugano City (Center) - Casino (Lair P-3 - Kitchen)
+|-
+| [[File:LAXINCENSE.png|50px]] Lax Incense || Must be held by a Pokemon. Its peculiar aroma reduces the opponent's accuracy. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:LAXMINT.png|50px]] Lax Mint || When a Pokemon smells it, its Defense will grow quickly, but its Sp. Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:LAZO.png|50px]] LAZO || TBD || TBD
+|-
+| [[File:LEAFSTONE.png|50px]] Leaf Stone || Curious stone that evolves certain species of Pokemon. It has a leaf drawing. || Cardenal City (Center) - Jewelry Store, Cardenal City (North) - Garden of Dreams, Lugano City (North) - Shopping Center (P3), Route 21
+|-
+| [[File:LEEK.png|50px]] Leek || A very long leek usually held by Farfetch'd. Increases the chance of landing a critical hit. || Route 21
+|-
+| [[File:LEFTOVERS.png|50px]] Leftovers || Gradually restores the holder's HP during battle. || Cardenal City - Pizzeria, Lugano City (North) - Shopping Center (P6), Lugano City (North) - Royal Palace (P1)
+|-
+| [[File:LEMONADE.png|50px]] Lemonade || Sweet lemonade that restores 80 HP of a Pokemon. || Gate 1, Finch Town, Finch Town - Cafeteria, Gate 2, Route 4, Gate 3, Calentra City, Gate 4, Gate 5, Gate 6, Gate 7, Gate 8, Gate 9, Nymph City, Nymph City - Vanilluxe Delux Ice Cream Shop, Nymph City - Cafe, Gate 10, Gate 11, Cardenal City (Center), Cardenal City (Center) - Lickylicky Pizzeria, Bar: The Rock, Cardenal City (Center) - Hotel MiraMar (P1) Corridor, Cardenal City (Center) - Hotel MiraMar (P2) Corridor, Cardenal City (South), Cardenal City (South) - House, Cardenal City (East), Cardenal City (East) - Aquarium, Cardenal City (East) - Latias Restaurant, Cardenal City (North), Cardenal City (North) - Latios Restaurant, Cardenal City (South) - Symphony of the Seas, Gate 12, Gate 13, Forbe City, Forbe City - Forbe Bakery, Gate 14, Gate 15, Akebia Prison (P-2), Akebia Prison (P-4), Akebia Prison (P-5), Nightingale Town - Stones Bar, Gate 16, Bullfinch Village, Gate 17, Gate 18, Gate 19, Lugano City (West), Lugano City (West) - Hospital (Rooftop), Lugano City (West) - Ice Cream Shop, Lugano City (Center), Lugano City (Center) - Stones Bar, Lugano City (Center) - Koffeeteria, Lugano City (Center) - Casino (Lair P-2), Lugano City (North) - Royal Palace (P0) - Kitchen, Lugano City (North), Lugano City (North) - Shopping Center (PB), Lugano City (North) - Shopping Center (P1), Lugano City (North) - Shopping Center (P2), Lugano City (North) - Shopping Center (P3), Lugano City (North) - Shopping Center (P4), Lugano City (North) - Shopping Center (P5), Lugano City (North) - Shopping Center (P6), Lugano City (North) - Shopping Center (P7), Lugano City (North) - Shopping Center (Rooftop), Lugano City (North) - Building, Lugano City (North) - Royal Palace (P2), Lugano City (North) - Royal Palace (P3), Lugano City (East) - PokeCenter, Lugano City (East) - Theater (P1), Lugano City (East) - Theater (P2), Gate 21, Retreat Park, Lugano City (South), Lugano City (South) - Restaurant of Love, Gate 20, Gate 22
+|-
+| [[File:LEPPABERRY.png|50px]] Leppa Berry || Pokemon can hold it or use it to restore 10 PP to a move. || Nymph City
+|-
+| [[File:LEVELBALL.png|50px]] Level Ball || A Poke Ball designed to capture lower-level Pokemon. || Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:LIECHIBERRY.png|50px]] Liechi Berry || If held by a Pokemon, it raises Attack in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:LIFEORB.png|50px]] Life Orb || Boosts moves, but consumes HP with each attack. Must be held by a Pokemon. || Magnetic Cave (P0), Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:LIGHTBALL.png|50px]] Light Ball || An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat. || Route 16 - Magnetic Cave (P1)
+|-
+| [[File:LIGHTCLAY.png|50px]] Light Clay || An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer. || Forbe City - Sakura's House
+|-
+| [[File:LLAVES.png|50px]] Keys || These are a girl's lost keys. The owner might be in the area where you found them. || Route 7
+|-
+| [[File:LLAVES2.png|50px]] Mysterious Key || It seems this key can open a rather large door... (Opens the door in the museum for TM103 Earthquake) || Cardenal City (North) - House
+|-
+| [[File:LLAVES3.png|50px]] Cabin Key || This key opens a cabin on Symphony of the Seas, who could have lost it? || Cardenal City (South) - Symphony of the Seas
+|-
+| [[File:LLAVES4.png|50px]] Prison Key P-5 || It seems to open a door on the fifth floor of the prison... || Akebia Prison (P-4)
+|-
+| [[File:LLAVES5.png|50px]] Ghost Key || With this key, you can open a door in the orphanage. || Route 16 - Abandoned Orphanage (Shuppet Maze)
+|-
+| [[File:LLAVESCLOACAS.png|50px]] Sewer Key || With this key, you can enter Liberty's room. || Lugano City (Center) - Casino - Sewers (Zone C)
+|-
+| [[File:LLAVESPALACIO.png|50px]] LLAVESPALACIO || TBD || TBD
+|-
+| [[File:LLAVESPALACIO2.png|50px]] Library Keys || With this key, you can access the 4th floor of the Palace. || Lugano City (North) - Royal Palace (P3) - Office
+|-
+| [[File:LONELYMINT.png|50px]] Lonely Mint || When a Pokemon smells it, its Attack will grow quickly, but its Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:LOPUNNITE.png|50px]] LOPUNNITE || TBD || TBD
+|-
+| [[File:LOVEBALL.png|50px]] Love Ball || A Poke Ball designed to catch Pokemon of the opposite gender to your Pokemon. || Calentra City - House
+|-
+| [[File:LOVESWEET.png|50px]] LOVESWEET || TBD || TBD
+|-
+| [[File:LUCARIONITE.png|50px]] LUCARIONITE || TBD || TBD
+|-
+| [[File:LUCKINCENSE.png|50px]] Luck Incense || Exotic scented incense. If the holder participates in battle, it doubles the earnings. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:LUCKYEGG.png|50px]] LUCKYEGG || TBD || TBD
+|-
+| [[File:LUCKYPUNCH.png|50px]] Lucky Punch || TBD || Route 17
+|-
+| [[File:LUMBERRY.png|50px]] Lum Berry || Pokemon can hold it or use it to recover from status conditions. || Nymph City
+|-
+| [[File:LUMINOUSMOSS.png|50px]] LUMINOUSMOSS || TBD || TBD
+|-
+| [[File:LUMIOSEGALETTE.png|50px]] LUMIOSEGALETTE || TBD || TBD
+|-
+| [[File:LUREBALL.png|50px]] Lure Ball || A Poké Ball for catching Pokémon hooked by a Rod when fishing. || Route 17, Lugano City (North) - Shopping Center (P2), Retreat Park (given by NPC, x2), Route 21
+|-
+| [[File:LUSTROUSORB.png|50px]] LUSTROUSORB || TBD || TBD
+|-
+| [[File:LUXURYBALL.png|50px]] Luxury Ball || A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly. || Cardenal City (Center) - Hotel MiraMar (P1) Corridor, Lugano City (North) - Shopping Center (P2), Lugano City (North) - Shopping Center (Rooftop) (given by NPC, x2)
+|-
+| [[File:machine_BUG.png|50px]] machine_BUG || TBD || TBD
+|-
+| [[File:machine_DARK.png|50px]] machine_DARK || TBD || TBD
+|-
+| [[File:machine_DRAGON.png|50px]] machine_DRAGON || TBD || TBD
+|-
+| [[File:machine_ELECTRIC.png|50px]] machine_ELECTRIC || TBD || TBD
+|-
+| [[File:machine_FAIRY.png|50px]] machine_FAIRY || TBD || TBD
+|-
+| [[File:machine_FIGHTING.png|50px]] machine_FIGHTING || TBD || TBD
+|-
+| [[File:machine_FIRE.png|50px]] machine_FIRE || TBD || TBD
+|-
+| [[File:machine_FLYING.png|50px]] machine_FLYING || TBD || TBD
+|-
+| [[File:machine_GHOST.png|50px]] machine_GHOST || TBD || TBD
+|-
+| [[File:machine_GRASS.png|50px]] machine_GRASS || TBD || TBD
+|-
+| [[File:machine_GROUND.png|50px]] machine_GROUND || TBD || TBD
+|-
+| [[File:machine_hm_FIGHTING.png|50px]] machine_hm_FIGHTING || TBD || TBD
+|-
+| [[File:machine_hm_FLYING.png|50px]] machine_hm_FLYING || TBD || TBD
+|-
+| [[File:machine_hm_NORMAL.png|50px]] machine_hm_NORMAL || TBD || TBD
+|-
+| [[File:machine_hm_WATER.png|50px]] machine_hm_WATER || TBD || TBD
+|-
+| [[File:machine_ICE.png|50px]] machine_ICE || TBD || TBD
+|-
+| [[File:machine_NORMAL.png|50px]] machine_NORMAL || TBD || TBD
+|-
+| [[File:machine_POISON.png|50px]] machine_POISON || TBD || TBD
+|-
+| [[File:machine_PSYCHIC.png|50px]] machine_PSYCHIC || TBD || TBD
+|-
+| [[File:machine_ROCK.png|50px]] machine_ROCK || TBD || TBD
+|-
+| [[File:machine_STEEL.png|50px]] machine_STEEL || TBD || TBD
+|-
+| [[File:machine_tr_BUG.png|50px]] machine_tr_BUG || TBD || TBD
+|-
+| [[File:machine_tr_DARK.png|50px]] machine_tr_DARK || TBD || TBD
+|-
+| [[File:machine_tr_DRAGON.png|50px]] machine_tr_DRAGON || TBD || TBD
+|-
+| [[File:machine_tr_ELECTRIC.png|50px]] machine_tr_ELECTRIC || TBD || TBD
+|-
+| [[File:machine_tr_FAIRY.png|50px]] machine_tr_FAIRY || TBD || TBD
+|-
+| [[File:machine_tr_FIGHTING.png|50px]] machine_tr_FIGHTING || TBD || TBD
+|-
+| [[File:machine_tr_FIRE.png|50px]] machine_tr_FIRE || TBD || TBD
+|-
+| [[File:machine_tr_FLYING.png|50px]] machine_tr_FLYING || TBD || TBD
+|-
+| [[File:machine_tr_GHOST.png|50px]] machine_tr_GHOST || TBD || TBD
+|-
+| [[File:machine_tr_GRASS.png|50px]] machine_tr_GRASS || TBD || TBD
+|-
+| [[File:machine_tr_GROUND.png|50px]] machine_tr_GROUND || TBD || TBD
+|-
+| [[File:machine_tr_ICE.png|50px]] machine_tr_ICE || TBD || TBD
+|-
+| [[File:machine_tr_NORMAL.png|50px]] machine_tr_NORMAL || TBD || TBD
+|-
+| [[File:machine_tr_POISON.png|50px]] machine_tr_POISON || TBD || TBD
+|-
+| [[File:machine_tr_PSYCHIC.png|50px]] machine_tr_PSYCHIC || TBD || TBD
+|-
+| [[File:machine_tr_ROCK.png|50px]] machine_tr_ROCK || TBD || TBD
+|-
+| [[File:machine_tr_STEEL.png|50px]] machine_tr_STEEL || TBD || TBD
+|-
+| [[File:machine_tr_WATER.png|50px]] machine_tr_WATER || TBD || TBD
+|-
+| [[File:machine_WATER.png|50px]] machine_WATER || TBD || TBD
+|-
+| [[File:MACHOBRACE.png|50px]] MACHOBRACE || TBD || TBD
+|-
+| [[File:MAGMARIZER.png|50px]] Magmarizer || A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. || Akebia Prison (P-2), Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:MAGNET.png|50px]] Magnet || An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves. || Route 5, Lugano City (East) - Theater - Laboratory (P-1) (given by NPC)
+|-
+| [[File:MAGOBERRY.png|50px]] Mago Berry || Restores the HP of the Pokemon using it in a pinch, but may cause confusion. || Nymph City
+|-
+| [[File:MAGOSTBERRY.png|50px]] MAGOSTBERRY || TBD || TBD
+|-
+| [[File:MALICIOUSARMOR.png|50px]] MALICIOUSARMOR || TBD || TBD
+|-
+| [[File:MANECTITE.png|50px]] MANECTITE || TBD || TBD
+|-
+| [[File:MARANGABERRY.png|50px]] MARANGABERRY || TBD || TBD
+|-
+| [[File:MAREEP.png|50px]] Farm Mareep || Lives in a corral, sheds wool every day. || Route 21 - Farm Store
+|-
+| [[File:MASTERBALL.png|50px]] Master Ball || The ultimate Poke Ball. It catches any wild Pokemon without fail. || Lugano City (North) - Shopping Center (PB) - Lottery, Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:MAWILITE.png|50px]] MAWILITE || TBD || TBD
+|-
+| [[File:MAXELIXIR.png|50px]] Max Elixir || Fully restores the PP of all moves learned by the chosen Pokemon. || Route 17, Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:MAXETHER.png|50px]] Max Ether || Fully restores the PP of a move you select for a Pokemon. || Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:MAXHONEY.png|50px]] MAXHONEY || TBD || TBD
+|-
+| [[File:MAXIVS.png|50px]] IV Maximizer || A mechanism that maximizes your Pokemon's IVs. || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:MAXMUSHROOMS.png|50px]] MAXMUSHROOMS || TBD || TBD
+|-
+| [[File:MAXPOTION.png|50px]] Max Potion || Spray-type medicine that heals wounds and restores all HP of a Pokemon. || Linnet Town - PokeCenter (6 or more badges), Finch Town - PokeCenter (6 or more badges), Calentra City - PokeCenter (6 or more badges), Greenfinch City - PokeCenter (6 or more badges), Nymph City - PokeCenter (6 or more badges), Cardenal City (West) - PokeCenter (6 or more badges), Cardenal City (East) - PokeCenter (6 or more badges), Toucan Town - PokeCenter (6 or more badges), Forbe City - PokeCenter (6 or more badges), Nightingale Town - PokeCenter (6 or more badges), Blackbird Town - PokeCenter (6 or more badges), Lugano City (West) - PokeCenter (6 or more badges), Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter (6 or more badges), Floral Pass
+|-
+| [[File:MAXREPEL.png|50px]] Max Repel || Repels weak wild Pokemon for 250 steps. || Linnet Town - PokeCenter (4 or more badges), Finch Town - PokeCenter (4 or more badges), Calentra City - PokeCenter (4 or more badges), Greenfinch City - PokeCenter (4 or more badges), Nymph City - PokeCenter (4 or more badges), Cardenal City (West) - PokeCenter (4 or more badges), Cardenal City (East) - PokeCenter (4 or more badges), Toucan Town - PokeCenter (4 or more badges), Forbe City - PokeCenter (4 or more badges), Nightingale Town - PokeCenter (4 or more badges), Blackbird Town - PokeCenter (4 or more badges), Blackbird Town - Celestial Tower (P2), Route 17, Lugano City (West) - PokeCenter (4 or more badges), Lugano City (East) - PokeCenter (4 or more badges), Floral Pass
+|-
+| [[File:MAXREVIVE.png|50px]] Max Revive || Medicine that revives a fainted Pokemon and restores all its HP. || Linnet Town - PokeCenter (6 or more badges), Finch Town - PokeCenter (6 or more badges), Calentra City - PokeCenter (6 or more badges), Greenfinch City - PokeCenter (6 or more badges), Nymph City - PokeCenter (6 or more badges), Cardenal City (West) - PokeCenter (6 or more badges), Cardenal City (Center), Cardenal City (East), Cardenal City (East) - PokeCenter (6 or more badges), Cardenal City (North) - Garden of Dreams, Toucan Town - PokeCenter (6 or more badges), Route 11, Forbe City - PokeCenter (6 or more badges), Akebia Prison (P-2), Akebia Prison (P-4), Akebia Prison (P-5), Nightingale Town - PokeCenter (6 or more badges), Blackbird Town - PokeCenter (6 or more badges), Route 19, Tue-Tue Jungle, Tue-Tue Hillside, Route 16 - Magnetic Cave (P0), Route 17, Lugano City (West) - Hospital (Rooftop) (given by NPC), Lugano City (West) - PokeCenter (6 or more badges), Lugano City (North) - Shopping Center (PB) - Lottery, Lugano City (North) - Shopping Center (P1), Lugano City (North) - Royal Palace (P1), Lugano City (North) - Royal Palace (P3), Lugano City (East) - PokeCenter (6 or more badges), Lugano City (East) - Theater (P2), Lugano City (Center) - Casino - Sewers (Final Room), Floral Pass
+|-
+| [[File:MEADOWPLATE.png|50px]] MEADOWPLATE || TBD || TBD
+|-
+| [[File:MEDICHAMITE.png|50px]] MEDICHAMITE || TBD || TBD
+|-
+| [[File:MEGARING.png|50px]] MEGARING || TBD || TBD
+|-
+| [[File:MELTANCANDY.png|50px]] MELTANCANDY || TBD || TBD
+|-
+| [[File:MENTALHERB.png|50px]] MENTALHERB || TBD || TBD
+|-
+| [[File:METAGROSSITE.png|50px]] METAGROSSITE || TBD || TBD
+|-
+| [[File:METALALLOY.png|50px]] METALALLOY || TBD || TBD
+|-
+| [[File:METALCOAT.png|50px]] Metal Coat || An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves. || Route 16 - Magnetic Cave (P0), Route 16 - Magnetic Cave (P-1)
+|-
+| [[File:METALPOWDER.png|50px]] METALPOWDER || TBD || TBD
+|-
+| [[File:METRONOME.png|50px]] Metronome || The user waggles a finger and stimulates its brain into randomly using nearly any move. || Lugano City (North) - Royal Palace (P3) - Piano Room
+|-
+| [[File:MEWTWONITEX.png|50px]] MEWTWONITEX || TBD || TBD
+|-
+| [[File:MEWTWONITEY.png|50px]] MEWTWONITEY || TBD || TBD
+|-
+| [[File:MICLEBERRY.png|50px]] MICLEBERRY || TBD || TBD
+|-
+| [[File:MILDMINT.png|50px]] Mild Mint || When a Pokemon smells it, its Sp. Attack will grow quickly, but its Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:MILTANK.png|50px]] Farm Miltank || She lives in a corral, you can milk her milk every day if you have a bucket. || Route 21 - Farm Store
+|-
+| [[File:MINDPLATE.png|50px]] MINDPLATE || TBD || TBD
+|-
+| [[File:MIRACLESEED.png|50px]] Miracle Seed || Must be held by a Pokemon. The vitality of the seed boosts Grass-type moves. || Greenfinch City, Route 6 (North) - House, Floral Pass
+|-
+| [[File:MISTYSEED.png|50px]] MISTYSEED || TBD || TBD
+|-
+| [[File:MODESTMINT.png|50px]] Modest Mint || When a Pokemon smells it, its Sp. Attack will grow quickly, but its Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:MOOMOOMILK.png|50px]] Moomoo Milk || Highly nutritious milk that restores 100 HP of a Pokemon. || Bullfinch Village, Route 21
+|-
+| [[File:MOONBALL.png|50px]] Moon Ball || A Poke Ball designed to catch Pokemon that evolve with a Moon Stone. || Route 20 - Squawk Trail
+|-
+| [[File:MOONSTONE.png|50px]] Moon Stone || Curious stone that evolves certain species of Pokemon. It is black like jet. || Cardenal City (Center) - Jewelry Store, Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:MOSAICMAIL.png|50px]] MOSAICMAIL || TBD || TBD
+|-
+| [[File:MUSCLEBAND.png|50px]] Muscle Band || Hair band that slightly boosts the power of physical moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:MUSCLEWING.png|50px]] MUSCLEWING || TBD || TBD
+|-
+| [[File:MYSTICWATER.png|50px]] Mystic Water || TBD || Greenfinch City, Garden of Dreams
+|-
+| [[File:NAIVEMINT.png|50px]] Naive Mint || When a Pokemon smells it, its Speed will grow quickly, but Sp. Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:NANABBERRY.png|50px]] Nanab Berry || If planted in soft soil, it grows into a Nanab plant. || Nymph City
+|-
+| [[File:NAUGHTYMINT.png|50px]] Naughty Mint || When a Pokemon smells it, its Attack will grow quickly, but its Sp. Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:NESTBALL.png|50px]] Nest Ball || A somewhat different Poke Ball. Works especially well on lower-level wild Pokemon. || Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:NETBALL.png|50px]] Net Ball || A somewhat different Poke Ball. Works especially well on Water- and Bug-type Pokemon. || Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:NEVERMELTICE.png|50px]] NEVERMELTICE || TBD || TBD
+|-
+| [[File:NLUNARIZER.png|50px]] NLUNARIZER || TBD || TBD
+|-
+| [[File:NOMELBERRY.png|50px]] NOMELBERRY || TBD || TBD
+|-
+| [[File:NORMALGEM.png|50px]] Normal Gem || One-time use gem that boosts Normal-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:NSOLARIZER.png|50px]] NSOLARIZER || TBD || TBD
+|-
+| [[File:NUGGET.png|50px]] Nugget || Nugget of pure gold that shines spectacularly. Can be sold for a high price in stores. || Relic Cave (P-2), Route 9, Cardenal City (North) - Garden of Dreams, Route 15 - Forest of Memoeries, Route 19, Lugano City (North) - Shopping Center (PB) Lottery, Lugano City (Center) - Unbreakable Ties S.A - Given by SSamurai for registering 250 (or more) Pokemon in the Pokedex (x10), Lugano City (North) - Shopping Center (PB) - Lottery, Route 20 - Squawk Trail
+|-
+| [[File:NUNCHAKUS.png|50px]] Nunchuks || A Pokemon should hold it. Increases bravery and strengthens Fighting and Steel-type moves. || Lugano City - Sewers (Zone B)
+|-
+| [[File:OCCABERRY.png|50px]] Occa Berry || If held by a Pokemon, it weakens super effective Fire-type attack. || Lugano City (Center) - Flower Shop
+|-
+| [[File:ODDINCENSE.png|50px]] Odd Incense || Exotic scented incense that boosts Psychic-type moves. Must be held by a Pokemon. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:ODDKEYSTONE.png|50px]] ODDKEYSTONE || TBD || TBD
+|-
+| [[File:OINKOLOGNE.png|50px]] Farm Lechonk || Lives in a corral, find truffle every day. || Route 21 - Farm Store
+|-
+| [[File:OLDAMBER.png|50px]] OLDAMBER || TBD || TBD
+|-
+| [[File:OLDGATEAU.png|50px]] Old Gateau || Specialty of the Old Chateau, Heals the status problems of a Pokemon. || Cardenal City (Center) - House
+|-
+| [[File:OLDROD.png|50px]] Old Rod || A well-used and worn fishing rod. Catches wild Pokemon in all types of water. || Route 4 - House
+|-
+| [[File:OLDSEAMAP.png|50px]] OLDSEAMAP || TBD || TBD
+|-
+| [[File:ORANBERRY.png|50px]] Oran Berry || Pokemon can hold it or use it to restore 10 HP. || Nymph City
+|-
+| [[File:OVALCHARM.png|50px]] OVALCHARM || TBD || TBD
+|-
+| [[File:OVALSTONE.png|50px]] Oval Stone || A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg. || Cardenal City (South) - Symphony of the Seas
+|-
+| [[File:PAMTREBERRY.png|50px]] PAMTREBERRY || TBD || TBD
+|-
+| [[File:PARALYZEHEAL.png|50px]] Paralyze Heal || Spray-type medicine that heals a Pokemon from paralysis. || Linnet Town - PokeCenter, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch Forest, Greenfinch City - PokeCenter, Route 6, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:PASSHOBERRY.png|50px]] Passho Berry || If held by a Pokemon, it weakens super effective Water-type attack. || Lugano City (Center) - Flower Shop
+|-
+| [[File:PAYAPABERRY.png|50px]] Payapa Berry || If held by a Pokemon, it weakens super effective Psychic-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:PEARL.png|50px]] Pearl || Shiny small silver pearl that doesn't fetch much in stores. || Linnet Town, Route 3, Route 4, Route 6 (South), Cardenal City (Center) - House, Route 13, Route 15, Route 15 - Forest of Memoeries, Route 16, Route 16 - Magnetic Cave (P0), Retreat Park, Floral Hillside, Route 21
+|-
+| [[File:PEARLSTRING.png|50px]] PEARLSTRING || TBD || TBD
+|-
+| [[File:PECHABERRY.png|50px]] Pecha Berry || Pokemon can hold it or use it to cure poisoning. || Nymph City
+|-
+| [[File:PELOTA.png|50px]] Ball || It's an old and fairly common ball, a child is looking for it. || Route 15 - Forest of Memoeries
+|-
+| [[File:PERSIMBERRY.png|50px]] Persim Berry || Pokemon can hold it or use it to recover from confusion. || Nymph City
+|-
+| [[File:PERUANITE.png|50px]] PERUANITE || TBD || TBD
+|-
+| [[File:PETAYABERRY.png|50px]] Petaya Berry || If held by a Pokemon, it raises Sp. Attack in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:PEWTERCRUNCHIES.png|50px]] PEWTERCRUNCHIES || TBD || TBD
+|-
+| [[File:PICO.png|50px]] Poke Tool || It's an exclusive pickaxe from the Akebia region, used to extract treasures from walls. Rattata lvoes it. || Algorithm Cave
+|-
+| [[File:PIDGEOTITE.png|50px]] PIDGEOTITE || TBD || TBD
+|-
+| [[File:PIEZADELENA.png|50px]] Log Piece || It's a piece of firewood. You can trade it at the bridge builder's house. || TBD
+|-
+| [[File:PINAPBERRY.png|50px]] Pinap Berry || If planted in soft soil, it grows into a Pinap plant. || Nymph City
+|-
+| [[File:PINGANILLO.png|50px]] Earpiece || Used to communicate instantly with others. || Lugano City (Center) - Casino (P-1)
+|-
+| [[File:PINKAPRICORN.png|50px]] PINKAPRICORN || TBD || TBD
+|-
+| [[File:PINKNECTAR.png|50px]] PINKNECTAR || TBD || TBD
+|-
+| [[File:PINKSCARF.png|50px]] PINKSCARF || TBD || TBD
+|-
+| [[File:PINSIRITE.png|50px]] PINSIRITE || TBD || TBD
+|-
+| [[File:PINTURA.png|50px]] Paint Pot || There's a bit of brown paint, it might be useful to someone at some points... || Cardenal City (Center)
+|-
+| [[File:PIXIEPLATE.png|50px]] PIXIEPLATE || TBD || TBD
+|-
+| [[File:PIZZA.png|50px]] Pizza || Cheesy pizza that restores 100HP and removes all status conditions from the user. || Cardenal City (Center), Cardenal City (Center) - Lickylicky Pizzeria, Cardenal City (Center) - Hotel MiraMar, Lugano City (South) - Restaurant of Love
+|-
+| [[File:PIZZAPEDIDO.png|50px]] PIZZAPEDIDO || TBD || TBD
+|-
+| [[File:PLUMEFOSSIL.png|50px]] PLUMEFOSSIL || TBD || TBD
+|-
+| [[File:POISONBARB.png|50px]] POISONBARB || TBD || TBD
+|-
+| [[File:POISONGEM.png|50px]] Poison Gem || One-time use gem that boosts Poison-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:POISONMEMORY.png|50px]] POISONMEMORY || TBD || TBD
+|-
+| [[File:POKEBALL.png|50px]] Poke Ball || Capsule design device that catches wild Pokemon. Thrown like a ball at the target. || Route 1, Linnet Town - PokeCenter, Finch Town - PokeCenter, Route 3, Calentra City - PokeCenter, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P2), Lugano City (East) - PokeCenter
+|-
+| [[File:POKEDOLL.png|50px]] POKEDOLL || TBD || TBD
+|-
+| [[File:POKEFLUTE.png|50px]] POKEFLUTE || TBD || TBD
+|-
+| [[File:POKEMONBOXLINK.png|50px]] POKEMONBOXLINK || TBD || TBD
+|-
+| [[File:POKERADAR.png|50px]] POKERADAR || TBD || TBD
+|-
+| [[File:POKETOY.png|50px]] POKETOY || TBD || TBD
+|-
+| [[File:POKEVIAL.png|50px]] POKEVIAL || TBD || TBD
+|-
+| [[File:POMEGBERRY.png|50px]] Pomeg Berry || If used on a Pokemon, it gains friendship, but also reduces its HP. || Nymph City
+|-
+| [[File:POTATO.png|50px]] Potato || I don't know what to tell you, it's a potato... Very good quality,but of little use sell it. || Route 21 - Player's Farm
+|-
+| [[File:POTATOSEED.png|50px]] Potato Seed || It can be planted in fertile stoil, it produces potatos. || Route 21 - Farm Store
+|-
+| [[File:POTION.png|50px]] Potion || Spray-type medicine that heals wounds and restores 20 HP of a Pokemon. || Sparrow Town, Route 1, Linnet Town, Linnet Town - PokeCenter, Route 2, Finch Town - House, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch Forest, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:POWERANKLET.png|50px]] Power Anklet || Helps gain Speed when leveling up, but reduces Speed in battle. Must be held by a Pokemon. || Route 6 (North), Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:POWERBAND.png|50px]] Power Band || Helps gain Sp. Defense when leveling up, but reduces Speed. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:POWERBELT.png|50px]] Power Belt || Helps gain Defense when leveling up, but reduces Speed. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:POWERBRACER.png|50px]] Power Bracer || Helps gain Attack when leveling up, but reduces Speed. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:POWERHERB.png|50px]] Power Herb || Allows immediate use of any move on the first turn. One-time use and must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:POWERLENS.png|50px]] Power Lens || Helps gain Sp. Attack when leveling up, but reduces Speed. Must be held by a Pokemon. || Cardenal City (East), Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:POWERWEIGHT.png|50px]] Power Weight || Helps gain more HP when leveling up, but reduces Speed. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:PPMAX.png|50px]] PP Max || Maximizes the PP of a move you select for a Pokemon. || Tue-Tue Jungle, Lugano City (East) - Theater - Laboratory (P-1)
+|-
+| [[File:PPUP.png|50px]] PP Up || Slightly increases the maximum PP of a move you select for a Pokemon. || Bullfinch Village - Sacred Cave, Lugano City (North) - Shopping Center (PB) - Lottery
+|-
+| [[File:PREMIERBALL.png|50px]] PREMIERBALL || TBD || TBD
+|-
+| [[File:PRETTYFEATHER.png|50px]] PRETTYFEATHER || TBD || TBD
+|-
+| [[File:PRETTYWING.png|50px]] PRETTYWING || TBD || TBD
+|-
+| [[File:PRISMSCALE.png|50px]] PRISMSCALE || TBD || TBD
+|-
+| [[File:PRISONBOTTLE.png|50px]] PRISONBOTTLE || TBD || TBD
+|-
+| [[File:PROTECTIVEPADS.png|50px]] PROTECTIVEPADS || TBD || TBD
+|-
+| [[File:PROTECTOR.png|50px]] Protector || A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. || Lugano City (North) - Shopping Center (P3), Route 20
+|-
+| [[File:PROTEIN.png|50px]] Protein || Nutrient-rich drink that increases a Pokemon's Attack. || Route 9, Cardenal City (West), Lugano City (North) - Shopping Center (P5), Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:PSYCHICGEM.png|50px]] Psychic Gem || One-time use gem that boosts Psychic-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:PSYCHICMEMORY.png|50px]] PSYCHICMEMORY || TBD || TBD
+|-
+| [[File:PSYCHICSEED.png|50px]] PSYCHICSEED || TBD || TBD
+|-
+| [[File:PUMPKIN.png|50px]] Pumpkin || Bitter food that the Pokemon ingests when it is low on life and restores half of your life. || Route 21
+|-
+| [[File:PUMPKINSEED.png|50px]] Pumpkin Seed || It can be planted in fertile soil, it produces pumpkins. || Route 21 - Farm Store
+|-
+| [[File:PUREINCENSE.png|50px]] Pure Incense || If held by the lead Pokemon, wild Pokemon will approach less frequently. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:PURPLENECTAR.png|50px]] PURPLENECTAR || TBD || TBD
+|-
+| [[File:QUALOTBERRY.png|50px]] Qualot Berry || If used on a Pokemon, it gains friendship, but reduces its Defense. || Nymph City
+|-
+| [[File:QUICKBALL.png|50px]] Quick Ball || A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter. || Cardenal City (South) - Church, Route 16, Route 16 - Magnetic Cave (P1), Lugano City (North) - Shopping Center (P2), Lugano City (North) - Royal Palace (P0), Lugano City (North) - Royal Palace (P1) - Room, Lugano City (North) - Royal Palace (P3), Floral Hillside
+|-
+| [[File:QUICKCLAW.png|50px]] Quick Claw || An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally. || Cardenal City (South) - Symphony of the Seas, Lugano City (North) - Royal Palace (P1)
+|-
+| [[File:QUICKPOWDER.png|50px]] QUICKPOWDER || TBD || TBD
+|-
+| [[File:QUIETMINT.png|50px]] Quiet Mint || When a Pokemon smells it, its Sp. Attack will grow quickly, but its Speed will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:RABUTABERRY.png|50px]] RABUTABERRY || TBD || TBD
+|-
+| [[File:RAGECANDYBAR.png|50px]] RAGECANDYBAR || TBD || TBD
+|-
+| [[File:RAREBONE.png|50px]] Rare Bone || A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops. || Cardenal City (South) - House
+|-
+| [[File:RARECANDY.png|50px]] Rare Candy || Energy candy that levels up a Pokemon. || Linnet Town - PokeCenter, Cardenal City (South) - Museum, Cardenal City (South) - Church, Toucan Town, Route 12, Route 14, Akebia Prison (P-1), Akebia Prison (P-2), Route 15, Blackbird Town, Route 16 - Abandoned Orphanage
+|-
+| [[File:RARECANDY2.png|50px]] Bitter Caramel || Very bitter candy that lowers a Pokemon's level. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:RASHMINT.png|50px]] Rash Mint || When a Pokemon smells it, its Sp. Attack will grow quickly, but its Sp. Defense will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:RAWSTBERRY.png|50px]] Rawst Berry || Pokemon can hold it or use it to heal burns. || Nymph City
+|-
+| [[File:RAZORCLAW.png|50px]] Razor Claw || An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio. || Route 17
+|-
+| [[File:RAZORFANG.png|50px]] Razor Fang || If held by a Pokemon when it hits an opponent, it can make them flinch. || Route 20 - Squawk Trail
+|-
+| [[File:RAZZBERRY.png|50px]] Razz Berry || If planted in soft soil, it grows into a Razz plant. || Nymph City
+|-
+| [[File:REAPERCLOTH.png|50px]] Reaper Cloth || A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. || Route 15 - Forest of Memoeries, Blackbird Town - Celestial Tower (P4), Lugano City (North) - Shopping Center (P3), Route 20 - Squawk Trail
+|-
+| [[File:REDAPRICORN.png|50px]] REDAPRICORN || TBD || TBD
+|-
+| [[File:REDBOUFFALANT.png|50px]] Bouffalant Net || An energy drink that restores 120 HP and doubles your Speed in battle. || Lugano City (West), Lugano City (West) - Hospital (Rooftop), Lugano City (Center), Lugano City (Center) - Koffeeteria, Lugano City (North), Lugano City (North) - Shopping Center (PB), Lugano City (North) - Shopping Center (P1), Lugano City (North) - Shopping Center (P2), Lugano City (North) - Shopping Center (P3), Lugano City (North) - Shopping Center (P4), Lugano City (North) - Shopping Center (P5), Lugano City (North) - Shopping Center (P6), Lugano City (North) - Shopping Center (P7), Lugano City (North) - Shopping Center (Rooftop), Lugano City (East) - Theater (P1), Lugano City (South)
+|-
+| [[File:REDCARD.png|50px]] Red Card || Mysterious card that allows the holder to expel the attacker when it takes damage. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:REDFLUTE.png|50px]] REDFLUTE || TBD || TBD
+|-
+| [[File:REDNECTAR.png|50px]] REDNECTAR || TBD || TBD
+|-
+| [[File:REDORB.png|50px]] REDORB || TBD || TBD
+|-
+| [[File:REDSCARF.png|50px]] REDSCARF || TBD || TBD
+|-
+| [[File:REDSHARD.png|50px]] REDSHARD || TBD || TBD
+|-
+| [[File:REINSOFUNITY.png|50px]] REINSOFUNITY || TBD || TBD
+|-
+| [[File:RELAXEDMINT.png|50px]] Relaxed Mint || When a Pokemon smells it, its Defense will grow quickly, but its Speed will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:RELICBAND.png|50px]] RELICBAND || TBD || TBD
+|-
+| [[File:RELICCOPPER.png|50px]] RELICCOPPER || TBD || TBD
+|-
+| [[File:RELICCROWN.png|50px]] RELICCROWN || TBD || TBD
+|-
+| [[File:RELICGOLD.png|50px]] RELICGOLD || TBD || TBD
+|-
+| [[File:RELICSILVER.png|50px]] RELICSILVER || TBD || TBD
+|-
+| [[File:RELICSTATUE.png|50px]] RELICSTATUE || TBD || TBD
+|-
+| [[File:RELICVASE.png|50px]] RELICVASE || TBD || TBD
+|-
+| [[File:REPEATBALL.png|50px]] Repeat Ball || A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught. || Lugano City (North) - Shopping Center (P2), Lugano City (East) - Theater (PB)
+|-
+| [[File:REPEL.png|50px]] Repel || Repels weak wild Pokemon for 100 steps. || Linnet Town - PokeCenter, Route 2, Finch Town - PokeCenter, Calentra City - PokeCenter, Greenfinch City - PokeCenter, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (East) - PokeCenter
+|-
+| [[File:RESETURGE.png|50px]] RESETURGE || TBD || TBD
+|-
+| [[File:RESISTWING.png|50px]] RESISTWING || TBD || TBD
+|-
+| [[File:REVEALGLASS.png|50px]] REVEALGLASS || TBD || TBD
+|-
+| [[File:REVIVALHERB.png|50px]] Revival Herb || Very bitter herb that revives a fainted Pokemon and restores all its HP. || Route 21
+|-
+| [[File:REVIVE.png|50px]] Revive || Medicine that revives a fainted Pokemon and restores half its HP. || Linnet Town - PokeCenter (2 or more badges), Finch Town - PokeCenter (2 or more badges), Calentra City - PokeCenter (2 or more badges), Greenfinch City - PokeCenter (2 or more badges), Route 6 (South), Route 7, Nymph City - PokeCenter (2 or more badges), Cardenal City (West) - PokeCenter (2 or more badges), Cardenal City (West) - House, Cardenal City (Center) - House, Cardenal City (East) - House, Cardenal City (East) - Library, Cardenal City (East) - Aquarium, Cardenal City (East) - PokeCenter (2 or more badges), Cardenal City (North), Cardenal City (North) - Garden of Dreams, Toucan Town - PokeCenter (2 or more badges), Route 12 - Forest of Time, Forbe City - House, Forbe City - PokeCenter (2 or more badges), Nightingale Town - PokeCenter (2 or more badges), Blackbird Town - PokeCenter (2 or more badges), Bullfinch Village, Bullfinch Village - Sacred Cave, Tue-Tue Jungle, Route 16, Route 16 - Magnetic Cave (P0), Route 16 - Magnetic Cave (P-1), Route 17, Lugano City (West) - PokeCenter (2 or more badges), Lugano City (North) - Shopping Center (P1), Lugano City (North) - Royal Palace (P1), Lugano City (North) - Royal Palace (P3), Lugano City (North) - Royal Palace (Breeding Garden Entrance), Lugano City (East) - PokeCenter (2 or more badges), Floral Pass
+|-
+| [[File:RIBBONSWEET.png|50px]] RIBBONSWEET || TBD || TBD
+|-
+| [[File:RINDOBERRY.png|50px]] Rindo Berry || If held by a Pokemon, it weakens super effective Grass-type attack. || Lugano City (Center) - Flower Shop, Lugano City (Center) - Flower Shop (given by NPC)
+|-
+| [[File:RINGTARGET.png|50px]] RINGTARGET || TBD || TBD
+|-
+| [[File:ROCKGEM.png|50px]] Rock Gem || One-time use gem that boosts Rock-type moves. Must be held by a Pokemon. || Finch Cave, Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:ROCKINCENSE.png|50px]] Rock Incense || Exotic scented incense that boosts Rock-type moves. Must be held by a Pokemon. || Cardenal City (Center) - Jewelry Store, Route 16 - Magnetic Cave (P0)
+|-
+| [[File:ROCKMEMORY.png|50px]] ROCKMEMORY || TBD || TBD
+|-
+| [[File:ROCKYHELMET.png|50px]] Rocky Helmet || If the holder of this item takes damage, the attacker will also be damaged upon contact. || Route 20
+|-
+| [[File:ROOMSERVICE.png|50px]] ROOMSERVICE || TBD || TBD
+|-
+| [[File:ROOTFOSSIL.png|50px]] ROOTFOSSIL || TBD || TBD
+|-
+| [[File:ROSEINCENSE.png|50px]] Rose Incense || Exotic scented incense that boosts Grass-type moves. Must be held by a Pokemon. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:ROSELIBERRY.png|50px]] ROSELIBERRY || TBD || TBD
+|-
+| [[File:ROSQUILLA.png|50px]] Donut || Lugano City donuts that restore 250HP, but lower speed. Brenda and Agapito love them :) || Lugano City (Center) - Koffeeteria
+|-
+| [[File:ROTOMCATALOG.png|50px]] ROTOMCATALOG || TBD || TBD
+|-
+| [[File:ROWAPBERRY.png|50px]] ROWAPBERRY || TBD || TBD
+|-
+| [[File:RUSTEDSHIELD.png|50px]] RUSTEDSHIELD || TBD || TBD
+|-
+| [[File:RUSTEDSWORD.png|50px]] RUSTEDSWORD || TBD || TBD
+|-
+| [[File:SABLENITE.png|50px]] SABLENITE || TBD || TBD
+|-
+| [[File:SACALECHES.png|50px]] Milk pail || It is a bucket for milking Pokemon. || Route 21 - Farm Store
+|-
+| [[File:SACHET.png|50px]] SACHET || TBD || TBD
+|-
+| [[File:SACREDASH.png|50px]] Sacred Ash || TBD || Cardenal City (South) - Church
+|-
+| [[File:SAFARIBALL.png|50px]] SAFARIBALL || TBD || TBD
+|-
+| [[File:SAFETYGOGGLES.png|50px]] SAFETYGOGGLES || TBD || TBD
+|-
+| [[File:SAILFOSSIL.png|50px]] SAILFOSSIL || TBD || TBD
+|-
+| [[File:SALACBERRY.png|50px]] Salac Berry || If held by a Pokemon, it raises Speed in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:SALAMENCITE.png|50px]] SALAMENCITE || TBD || TBD
+|-
+| [[File:SASSYMINT.png|50px]] Sassy Mint || When a Pokemon smells it, its Sp. Defense will grow quickly, but its Speed will grow more slowly. || Lugano City (North) - Shopping Center (P5)
+|-
+| [[File:SCEPTILITE.png|50px]] SCEPTILITE || TBD || TBD
+|-
+| [[File:SCIZORITE.png|50px]] SCIZORITE || TBD || TBD
+|-
+| [[File:SCOPELENS.png|50px]] Scope Lens || An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio. || Lugano City (North) - Royal Palace (P1)
+|-
+| [[File:SEAINCENSE.png|50px]] Sea Incense || It has a curious aroma that boosts the power of Water-type moves. Must be held by a Pokemon. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:SERIOUSMINT.png|50px]] SERIOUSMINT || TBD || TBD
+|-
+| [[File:SEVIPERITA.png|50px]] SEVIPERITA || TBD || TBD
+|-
+| [[File:SHALOURSABLE.png|50px]] SHALOURSABLE || TBD || TBD
+|-
+| [[File:SHARD_AMARILLA.png|50px]] Yellow Shard || It's a fragment of the Battle Frontier, useless without the rest... || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:SHARD_AZUL.png|50px]] Blue Shard || It's a fragment of the Battle Frontier, useless without the rest... || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:SHARD_ROJA.png|50px]] Red Shard || It's a fragment of the Battle Frontier, useless without the rest... || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:SHARD_ROSA.png|50px]] Purple Shard || It's a fragment of the Battle Frontier, useless without the rest... || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:SHARD_VERDE.png|50px]] Green Shard || It's a fragment of the Battle Frontier, useless without the rest... || Lugano City (Center) - Casino (P-4) Battle Frontier
+|-
+| [[File:SHARPBEAK.png|50px]] Sharp Beak || Long and sharp beak that boosts Flying-type moves. Must be held by a Pokemon. || Route 21 (Extra)
+|-
+| [[File:SHARPEDONITE.png|50px]] SHARPEDONITE || TBD || TBD
+|-
+| [[File:SHEDSHELL.png|50px]] SHEDSHELL || TBD || TBD
+|-
+| [[File:SHELLBELL.png|50px]] SHELLBELL || TBD || TBD
+|-
+| [[File:SHELLDERECHO.png|50px]] SHELLDERECHO || TBD || TBD
+|-
+| [[File:SHINYCHARM.png|50px]] Shiny Charm || Mysterious shiny charm that increases the chance of finding Shiny Pokemon. || Lugano City (Center) - Unbreakable Ties S.A - Given by SSamurai for registering 750 (or more) Pokemon in the Pokedex
+|-
+| [[File:SHINYDEW.png|50px]] Shiny Dew || TBD || TBD
+|-
+| [[File:SHINYSTONE.png|50px]] Shiny Stone || A peculiar stone that evolves some Pokemon. It has a spectacular shine. || Route 8, Route 10, Cardenal City (Center) - Jewelry Store, Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:SHOALSALT.png|50px]] SHOALSALT || TBD || TBD
+|-
+| [[File:SHOALSHELL.png|50px]] SHOALSHELL || TBD || TBD
+|-
+| [[File:SHOCKDRIVE.png|50px]] SHOCKDRIVE || TBD || TBD
+|-
+| [[File:SHUCABERRY.png|50px]] Shuca Berry || If held by a Pokemon, it weakens super effective Ground-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:SILBATO.png|50px]] Whistle || It's a powerful whistle used to call a specfici Corviknight. || Blackbird Town - Gym
+|-
+| [[File:SILKSCARF.png|50px]] Silk Scarf || TBD || Cardenal City (Center) - Hotel Miramar
+|-
+| [[File:SILPHSCOPE.png|50px]] SILPHSCOPE || TBD || TBD
+|-
+| [[File:SILVERPOWDER.png|50px]] Silver Powder || Silver powder that boosts Bug-type moves. Must be held by a Pokemon. || Greenfinch Forest
+|-
+| [[File:SITRUSBERRY.png|50px]] Sitrus Berry || Pokemon can hold it or use it to restore some HP. || Nymph City
+|-
+| [[File:SKIDDOMILK.png|50px]] SKIDDOMILK || TBD || TBD
+|-
+| [[File:SKULLFOSSIL.png|50px]] SKULLFOSSIL || TBD || TBD
+|-
+| [[File:SKYPLATE.png|50px]] SKYPLATE || TBD || TBD
+|-
+| [[File:SLOWBRONITE.png|50px]] SLOWBRONITE || TBD || TBD
+|-
+| [[File:SLOWPOKETAIL.png|50px]] SLOWPOKETAIL || TBD || TBD
+|-
+| [[File:SMOKEBALL.png|50px]] Smoke Ball || An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail. || Route 16, Route 20 - Squawk Trail
+|-
+| [[File:SMOOTHROCK.png|50px]] SMOOTHROCK || TBD || TBD
+|-
+| [[File:SNORLAXITE.png|50px]] SNORLAXITE || TBD || TBD
+|-
+| [[File:SNOWBALL.png|50px]] SNOWBALL || TBD || TBD
+|-
+| [[File:SNOWMAIL.png|50px]] SNOWMAIL || TBD || TBD
+|-
+| [[File:SODAPOP.png|50px]] Soda Pop || Sparkling soda pop that restores 60 HP of a Pokemon. || Gate 1, Finch Town, Finch Town - Cafeteria, Gate 2, Route 4, Gate 3, Calentra City, Gate 4, Gate 5, Gate 6, Gate 7, Gate 8, Gate 9, Nymph City, Nymph City - Vanilluxe Delux Ice Cream Shop, Nymph City - Cafe, Gate 10, Gate 11, Cardenal City (Center), Cardenal City (Center) - Lickylicky Pizzeria, Cardenal City (Center) - Hotel MiraMar (P1) Corridor, Cardenal City (Center) - Hotel MiraMar (P2) Corridor, Cardenal City (South) - Museum (x5), Cardenal City (East) - Aquarium, Cardenal City (East) - Latias Restaurant, Cardenal City (North), Cardenal City (North) - Latios Restaurant, Cardenal City (South) - Symphony of the Seas, Gate 12, Gate 13, Forbe City - Forbe Bakery, Gate 14, Gate 15, Gate 16, Bullfinch Village, Gate 17, Gate 18, Gate 19, Lugano City (West), Lugano City (West) - Hospital (Rooftop), Lugano City (West) - Ice Cream Shop, Lugano City (Center), Lugano City (Center) - Koffeeteria, Lugano City (Center) - Casino (Lair P-2), Lugano City (North), Lugano City (North) - Shopping Center (PB), Lugano City (North) - Shopping Center (P1), Lugano City (North) - Shopping Center (P2), Lugano City (North) - Shopping Center (P3), Lugano City (North) - Shopping Center (P4), Lugano City (North) - Shopping Center (P5), Lugano City (North) - Shopping Center (P6), Lugano City (North) - Shopping Center (P7), Lugano City (North) - Shopping Center (Rooftop), Lugano City (East) - Theater (P1), Gate 21, Lugano City (South), Lugano City (South) - Restaurant of Love, Gate 20, Gate 22
+|-
+| [[File:SOFTSAND.png|50px]] Soft Sand || Must be held by a Pokemon. The softness of the sand boosts Ground-type moves. || Calentra City
+|-
+| [[File:SOOTHEBELL.png|50px]] Soothe Bell || An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly. || Route 12 - Forest of Time
+|-
+| [[File:SOOTSACK.png|50px]] SOOTSACK || TBD || TBD
+|-
+| [[File:SOULDEW.png|50px]] SOULDEW || TBD || TBD
+|-
+| [[File:SPACEMAIL.png|50px]] SPACEMAIL || TBD || TBD
+|-
+| [[File:SPELLTAG.png|50px]] Spell Tag || An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves. || Route 15 - Forest of Memories, Blackbird Town - Celestial Tower (P1), Tue-Tue Forest, Route 16
+|-
+| [[File:SPELONBERRY.png|50px]] SPELONBERRY || TBD || TBD
+|-
+| [[File:SPLASHPLATE.png|50px]] SPLASHPLATE || TBD || TBD
+|-
+| [[File:SPOOKYPLATE.png|50px]] Spooky Plate || An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves. || Route 16 - Abandoned Orphanage (Shuppet Maze), Route 16 - Abandoned Orphanage (Office)
+|-
+| [[File:SPORTBALL.png|50px]] SPORTBALL || TBD || TBD
+|-
+| [[File:SPRAYDUCK.png|50px]] Sprayduck || A watering can shaped like a Psyduck. It helps promote healthy grwoth of Berries planted in soft soil. || Route 21 - Player's Farm (given by Eric)
+|-
+| [[File:SPRINKLOTAD.png|50px]] SPRINKLOTAD || TBD || TBD
+|-
+| [[File:SQUIRTBOTTLE.png|50px]] SQUIRTBOTTLE || TBD || TBD
+|-
+| [[File:STABLEMULCH.png|50px]] STABLEMULCH || TBD || TBD
+|-
+| [[File:STARDUST.png|50px]] Stardust || Beautiful red sand with a silky touch that fetches a high price in stores. || Finch Town, Route 4, Calentra City, Greenfinch Forest, Nymph City, Cardenal City (North) - Garden of Dreams, Route 15, Route 17, Route 19 - Cemetery, Lugano City (North) - Royal Palace Garden, Retreat Park, Floral Hillside, Route 20 - Squawk Trail
+|-
+| [[File:STARFBERRY.png|50px]] Starf Berry || If held by a Pokemon, it drastically increases one stat in a pinch. || Lugano City (Center) - Flower Shop
+|-
+| [[File:STARPIECE.png|50px]] STARPIECE || TBD || TBD
+|-
+| [[File:STARSWEET.png|50px]] STARSWEET || TBD || TBD
+|-
+| [[File:STEELGEM.png|50px]] Steel Gem || One-time use gem that boosts Steel-type moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:STEELIXITE.png|50px]] STEELIXITE || TBD || TBD
+|-
+| [[File:STEELMAIL.png|50px]] STEELMAIL || TBD || TBD
+|-
+| [[File:STEELMEMORY.png|50px]] STEELMEMORY || TBD || TBD
+|-
+| [[File:STICK.png|50px]] STICK || TBD || TBD
+|-
+| [[File:STICKYBARB.png|50px]] STICKYBARB || TBD || TBD
+|-
+| [[File:STONEPLATE.png|50px]] STONEPLATE || TBD || TBD
+|-
+| [[File:STRAWBERRYSWEET.png|50px]] STRAWBERRYSWEET || TBD || TBD
+|-
+| [[File:SUNSTONE.png|50px]] Sun Stone || Curious stone that evolves certain species of Pokemon. It is red like the core of the sun. || Route 9, Cardenal City (Center) - Jewelry Store, Route 11, Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:SUPERPOTION.png|50px]] Super Potion || Spray-type medicine that heals wounds and restores 60 HP of a Pokemon. || Linnet Town - PokeCenter, Route 2, Finch Town - PokeCenter, Route 3, Calentra City - PokeCenter, Greenfinch City - PokeCenter, Route 6, Route 6 (South), Relic Cave (P-1), Route 8, Nymph City - PokeCenter, Cardenal City (West) - PokeCenter, Cardenal City (Center) - House, Cardenal City (South) - House, Cardenal City (East) - PokeCenter, Toucan Town - PokeCenter, Forbe City - PokeCenter, Nightingale Town - PokeCenter, Blackbird Town - PokeCenter, Lugano City (West) - PokeCenter, Lugano City (North) - Shopping Center (P1), Lugano City (East) - PokeCenter
+|-
+| [[File:SUPERREPEL.png|50px]] Super Repel || Repels weak wild Pokemon for 200 steps. || Linnet Town - PokeCenter (2 or more badges), Finch Town - PokeCenter (2 or more badges), Calentra City - PokeCenter (2 or more badges), Greenfinch City - PokeCenter (2 or more badges), Nymph City - PokeCenter (2 or more badges), Cardenal City (West) - PokeCenter (2 or more badges), Cardenal City (East) - PokeCenter (2 or more badges), Toucan Town - PokeCenter (2 or more badges), Forbe City - PokeCenter (2 or more badges), Route 14, Nightingale Town - PokeCenter (2 or more badges), Route 15 - Forest of Memoeries, Blackbird Town - PokeCenter (2 or more badges), Bullfinch Jungle, Tue-Tue Jungle, Lugano City (West) - PokeCenter (2 or more badges), Lugano City (East) - PokeCenter (2 or more badges), Retreat Park
+|-
+| [[File:SUPERROD.png|50px]] Super Rod || An increadible high-tech fishing rod, only found outside Akebia. || Route 15 - Forest of Memories
+|-
+| [[File:SWAMPERTITE.png|50px]] SWAMPERTITE || TBD || TBD
+|-
+| [[File:SWEETAPPLE.png|50px]] Sweet Apple || A peculiar apple that can make a certain species of Pokemon evolve. It's exceptionally sweet. || Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:SWEETHEART.png|50px]] Sweet Heart || Sweet-tasting chocolate. Restores HP of a Pokemon. || Cardenal City (Center), Cardenal City (Center) - Hotel MiraMar (P2) Room 203
+|-
+| [[File:SWIFTWING.png|50px]] SWIFTWING || TBD || TBD
+|-
+| [[File:SYRUPYAPPLE.png|50px]] Syrupy Apple || A curious apple coated in syrup that evolves Applin. || Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:TAMATOBERRY.png|50px]] Tamato Berry || If used on a Pokemon, its gains friendship, but lowers its Speed. || Nymph City
+|-
+| [[File:TANGABERRY.png|50px]] Tanga Berry || If held by a Pokemon, it weakens super effective Bug-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:TAPONES.png|50px]] Earplugs || Can muffle sound on certain occasions. || Lugano City (Center) - Casino (P-1)
+|-
+| [[File:TARJETAPOCHA.png|50px]] Warehouse Card || It looks like a shabby card, used to open the orphanage's storage. || Route 16 - Abandoned Orphanage (Kitchen)
+|-
+| [[File:TARTAPPLE.png|50px]] TARTAPPLE || TBD || TBD
+|-
+| [[File:TERRAINEXTENDER.png|50px]] TERRAINEXTENDER || TBD || TBD
+|-
+| [[File:THICKCLUB.png|50px]] THICKCLUB || TBD || TBD
+|-
+| [[File:THROATSPRAY.png|50px]] THROATSPRAY || TBD || TBD
+|-
+| [[File:THUNDERSTONE.png|50px]] Thunder Stone || Curious stone that evolves certain species of Pokemon. It has a lightning bolt drawing. || Cardenal City (Center) - Jewelry Store, Cardenal City (North) - Garden of Dreams, Route 16 - Magnetic Cave (P0), Route 17, Lugano City (North) - Shopping Center (P3)
+|-
+| [[File:TIMERBALL.png|50px]] Timer Ball || A somewhat different Ball that becomes progressively better the more turns there are in a battle. || Route 18, Lugano City (North) - Shopping Center (P2)
+|-
+| [[File:TIMIDMINT.png|50px]] Timid Mint || When a Pokemon smells it, its Speed will grow quickly, but its Attack will grow more slowly. || Lugano City (North) - Shopping Center (P5), Route 20 - Squawk Trail
+|-
+| [[File:TINYMUSHROOM.png|50px]] TINYMUSHROOM || TBD || TBD
+|-
+| [[File:TORCHIC.png|50px]] Farm Torchic || Lives in a corral, generates Torchic egg every day. || Route 21 - Farm Store
+|-
+| [[File:TORCHIC2.png|50px]] Farm Shiny Torchic || Lives in a corral, generates a golden egg every day. || Route 21 - Farm Store
+|-
+| [[File:TOWNMAP.png|50px]] Town Map || A map that can be consulted at any time and shows you where you are. || Finch Town - Cafeteria
+|-
+| [[File:TOXICORB.png|50px]] Toxic Orb || Strange orb that badly poisons the holder in battle. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:TOXICPLATE.png|50px]] TOXICPLATE || TBD || TBD
+|-
+| [[File:TOXTRICITA.png|50px]] TOXTRICITA || TBD || TBD
+|-
+| [[File:TRAJE.png|50px]] Suit || I don't know what you want me to say, it's just a suit. || Lugano City (North) - Shopping Center (P7)
+|-
+| [[File:TRUFA.png|50px]] Truffle || Food that restores 50 HP, but can be sold for a very high price. || Route 21 - Player's Farm
+|-
+| [[File:TUNNELMAIL.png|50px]] TUNNELMAIL || TBD || TBD
+|-
+| [[File:TWISTEDSPOON.png|50px]] TWISTEDSPOON || TBD || TBD
+|-
+| [[File:TYRANITARITE.png|50px]] TYRANITARITE || TBD || TBD
+|-
+| [[File:ULTRABALL.png|50px]] Ultra Ball || High-performance Poke Ball. It has a higher success rate than a Great Ball. || Linnet Town - PokeCenter (4 or more badges), Finch Town - PokeCenter (4 or more badges), Calentra City - PokeCenter (4 or more bages), Greenfinch City - PokeCenter (4 or more badges), Relic Cave (P1), Nymph City - PokeCenter (4 or more badges), Route 9, Cardenal City (West) - PokeCenter (4 or more badges), Cardenal City (East) - PokeCenter (4 or more badges), Cardenal City (South) - Symphony of the Seas, Toucan Town - PokeCenter (4 or more badges), Route 12, Forbe City, Forbe City - PokeCenter (4 or more badges), Route 13, Nightingale Town - PokeCenter (4 or more badges), Blackbird Town - PokeCenter (4 or more badges), Route 16, Route 16 - Abandoned Orphanage, Route 16, Route 16 - Magnetic Cave (P1), Route 17, Lugano City (West) - PokeCenter (4 or more badges), Lugano City (North) - Shopping Center (PB) - Lottery, Lugano City (North) - Shopping Center (P2), Lugano City (East) - PokeCenter (4 or more badges), Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:UPGRADE.png|50px]] Upgrade || A transparent device filled with all sorts of data. It was produced by Silph Co. || Lugano City (Center) - Casino (Warehouse), Lugano City (North) - Shopping Center (P3), Lugano City (East) - Theater - Laboratory (P0)
+|-
+| [[File:UTILITYUMBRELLA.png|50px]] UTILITYUMBRELLA || TBD || TBD
+|-
+| [[File:VEGETA.png|50px]] VEGETA || TBD || TBD
+|-
+| [[File:VENUSAURITE.png|50px]] VENUSAURITE || TBD || TBD
+|-
+| [[File:WACANBERRY.png|50px]] Wacan Berry || If held by a Pokemon, it weakens super effective Electric-type attack. || Lugano City (Center) - Flower Shop
+|-
+| [[File:WAILMERPAIL.png|50px]] WAILMERPAIL || TBD || TBD
+|-
+| [[File:WATERGEM.png|50px]] Water Gem || One-time use gem that boosts Water-type moves. Must be held by a Pokemon. || Cardenal City (South) - House, Cardenal City (East) - Aquarium, Lugano City (North) - Shopping Center (P4)
+|-
+| [[File:WATERMEMORY.png|50px]] WATERMEMORY || TBD || TBD
+|-
+| [[File:WATERSTONE.png|50px]] Water Stone || Curious stone that evolves certain species of Pokemon. It is blue like water. || Cardenal City (Center), Cardenal City (Center) - Jewelry Store, Cardenal City (North) - Garden of Dreams, Cardenal City (South) - Symphony of the Seas, Lugano City (North) - Shopping Center (P3), Lugano City (North) - Royal Palace (P2), Route 20
+|-
+| [[File:WATMELBERRY.png|50px]] WATMELBERRY || TBD || TBD
+|-
+| [[File:WAVEINCENSE.png|50px]] Wave Incense || Exotic incense that boosts Water-type moves. Must be held by a Pokemon. || Cardenal City (Center) - Jewelry Store
+|-
+| [[File:WEAKNESSPOLICY.png|50px]] WEAKNESSPOLICY || TBD || TBD
+|-
+| [[File:WEPEARBERRY.png|50px]] Wepear Berry || If planted in soft soil, it grows into a Wepear plant. || Nymph City
+|-
+| [[File:WHIPPEDDREAM.png|50px]] WHIPPEDDREAM || TBD || TBD
+|-
+| [[File:WHITEAPRICORN.png|50px]] WHITEAPRICORN || TBD || TBD
+|-
+| [[File:WHITEFLUTE.png|50px]] WHITEFLUTE || TBD || TBD
+|-
+| [[File:WHITEHERB.png|50px]] White Herb || Restores any lowered stat in battle. Can only be used once. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:WIDELENS.png|50px]] Wide Lens || An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves. || Route 15 - House
+|-
+| [[File:WIKIBERRY.png|50px]] Wiki Berry || Restores the HP of the Pokemon using it in a pinch, but may cause confusion. || Nymph City
+|-
+| [[File:WISEGLASSES.png|50px]] Wise Glasses || Slightly boosts the power of special moves. Must be held by a Pokemon. || Lugano City (North) - Shopping Center (P6)
+|-
+| [[File:WOOLOO.png|50px]] Farm Wooloo || Lives in a corral, sheds wool every day. || Route 21 - Farm Store
+|-
+| [[File:XACCURACY.png|50px]] X Accuracy || Increases Accurac in battle. When changing Pokemon, the effect disappears. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:XACCURACY2.png|50px]] XACCURACY2 || TBD || TBD
+|-
+| [[File:XACCURACY3.png|50px]] XACCURACY3 || TBD || TBD
+|-
+| [[File:XACCURACY6.png|50px]] XACCURACY6 || TBD || TBD
+|-
+| [[File:XATTACK.png|50px]] X Attack || Increases Attack in battle. When changing Pokemon, the effect disappears. || Cardenal City (West), Bullfinch Jungle, Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:XATTACK2.png|50px]] XATTACK2 || TBD || TBD
+|-
+| [[File:XATTACK3.png|50px]] XATTACK3 || TBD || TBD
+|-
+| [[File:XATTACK6.png|50px]] XATTACK6 || TBD || TBD
+|-
+| [[File:XDEFENSE.png|50px]] X Defense || Increases Defense in battle. When changing Pokemon, the effect disappears. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:XDEFENSE2.png|50px]] XDEFENSE2 || TBD || TBD
+|-
+| [[File:XDEFENSE3.png|50px]] XDEFENSE3 || TBD || TBD
+|-
+| [[File:XDEFENSE6.png|50px]] XDEFENSE6 || TBD || TBD
+|-
+| [[File:XSPATK.png|50px]] X Sp. Attack || Increases Sp. Attack in battle. When changing Pokemon, the effect disappears. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:XSPATK2.png|50px]] XSPATK2 || TBD || TBD
+|-
+| [[File:XSPATK3.png|50px]] XSPATK3 || TBD || TBD
+|-
+| [[File:XSPATK6.png|50px]] XSPATK6 || TBD || TBD
+|-
+| [[File:XSPDEF.png|50px]] X Sp. Defense || Increases Sp. Defense in battle. When changing Pokemon, the effect disappears. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:XSPDEF2.png|50px]] XSPDEF2 || TBD || TBD
+|-
+| [[File:XSPDEF3.png|50px]] XSPDEF3 || TBD || TBD
+|-
+| [[File:XSPDEF6.png|50px]] XSPDEF6 || TBD || TBD
+|-
+| [[File:XSPEED.png|50px]] X Speed || Increases Speed in battle. When changing Pokemon, the effect disappears. || Cardenal City (West), Lugano City (North) - Shopping Center (P1)
+|-
+| [[File:XSPEED2.png|50px]] XSPEED2 || TBD || TBD
+|-
+| [[File:XSPEED3.png|50px]] XSPEED3 || TBD || TBD
+|-
+| [[File:XSPEED6.png|50px]] XSPEED6 || TBD || TBD
+|-
+| [[File:YACHEBERRY.png|50px]] Yache Berry || If held by a Pokemon, it weakens super effective Ice-type attacks. || Lugano City (Center) - Flower Shop
+|-
+| [[File:YELLOWAPRICORN.png|50px]] YELLOWAPRICORN || TBD || TBD
+|-
+| [[File:YELLOWFLUTE.png|50px]] YELLOWFLUTE || TBD || TBD
+|-
+| [[File:YELLOWNECTAR.png|50px]] YELLOWNECTAR || TBD || TBD
+|-
+| [[File:YELLOWSCARF.png|50px]] YELLOWSCARF || TBD || TBD
+|-
+| [[File:YELLOWSHARD.png|50px]] YELLOWSHARD || TBD || TBD
+|-
+| [[File:ZAPPLATE.png|50px]] ZAPPLATE || TBD || TBD
+|-
+| [[File:ZINC.png|50px]] Zinc || Nutrient-rich drink that increases a Pokemon's Sp. Defense. || Route 10, Cardenal City (West), Tue-Tue Jungle, Lugano City (North) - Shopping Center (P5), Lugano City (East) - Theater - Laboratory (P0), Route 20 - Squawk Trail, Route 21
+|-
+| [[File:ZOOMLENS.png|50px]] ZOOMLENS || TBD || TBD
+|-
+| [[File:ZUMOCORPHISH.png|50px]] Corphish Juice || A sweet and refreshing drink from Corphish that restores 100HP to the Pokemon drinks it. From Nymph City. || TBD
+|-
+| [[File:ZUMODEFENSA.png|50px]] Defense Juice || A juice made by Spinda that increases 20 EV points of Attack. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:ZUMODEFENSAESP.png|50px]] Sp. Defense Juice || A juice made by Spinda that increases 20 EV points of Sp. Defense. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:ZUMODUDOSO.png|50px]] Dubious Juice || A foul-smelling juice made by Spinda, reduces 1 EV point of all stats when a Pokemon drinks it. || TBD
+|-
+| [[File:ZUMOFUERZA.png|50px]] Attack Juice || A juice made by Spinda that increases 20 EV points of Attack. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:ZUMOFUERZAESP.png|50px]] Sp. Attack Juice || A juice made by Spinda that increases 20 EV points of Sp. Attack. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:ZUMOLEGENDARIO.png|50px]] Legendary Juice || The famous Legendary Juice made by Spinda (with much luck), increases 20 EV points of all stats. || TBD
+|-
+| [[File:ZUMOPS.png|50px]] Health Juice || A juice made by Spinda that increases 20 EV points of HP. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:ZUMOVELOCIDAD.png|50px]] Speed Juice || A juice made by Spinda that increases 20 EV points of Speed. || Cardenal City (West) - Spinda Cafe
+|-
+| [[File:ZYGARDECUBE.png|50px]] ZYGARDECUBE || TBD || TBD
+|}
